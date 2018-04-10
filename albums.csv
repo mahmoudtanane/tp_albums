@@ -1,4 +1,4 @@
-album,genre,,,,artiste,,,,nbVentes(en millions),,,duree(en minutes),,,anneeSortie,,,rca
+album,album,album,album,album,album,album,album,album,album,album,album,duree(en minutes),,,anneeSortie,,,rca
 ,rock,folk,rap,jazz,neil_young,the_beatles,tribe_called_quest,frank zappa,N<=1,1<n<=4,n>4,D<=40,40<d<=50,d>50,a<=1970,1970<a<=1990,a>1990,rca
 harvest,x,x,,,x,,,,,x,,x,,,,x,,rca
 the_low_end_theory, ,,x,x,,,x,,x,,,,x,,,,x,rca
