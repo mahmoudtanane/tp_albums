@@ -1,0 +1,3878 @@
+<?xml version="1.0"?>
+<Ontology xmlns="http://www.w3.org/2002/07/owl#"
+     xml:base="http://www.semanticweb.org/alachguer/ontologies/2018/1/untitled-ontology-4"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     ontologyIRI="http://www.semanticweb.org/alachguer/ontologies/2018/1/untitled-ontology-4">
+    <Prefix name="" IRI="http://www.semanticweb.org/alachguer/ontologies/2018/1/untitled-ontology-4"/>
+    <Prefix name="owl" IRI="http://www.w3.org/2002/07/owl#"/>
+    <Prefix name="rdf" IRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#"/>
+    <Prefix name="xml" IRI="http://www.w3.org/XML/1998/namespace"/>
+    <Prefix name="xsd" IRI="http://www.w3.org/2001/XMLSchema#"/>
+    <Prefix name="rdfs" IRI="http://www.w3.org/2000/01/rdf-schema#"/>
+    <Declaration>
+        <NamedIndividual IRI="#polly"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#because"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#title"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#brainDamage"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#shes’sCrafty"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#slowRide"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#mccartney_beatles"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#x"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#comeAsYouAre"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Album"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#cobain_nirvana"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#clanInDaFront"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Sutcliff"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#hereComesTheSun"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#loungeAct"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#theseDays"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Person"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#mendel_foo_fighters"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#sunKing"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#eclipse"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#money"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#wastingLights"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#progressiveRock"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#hawkins"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#wuTang7thChamber"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#mcCartney"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#mendel"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#shameOnANigga"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#nevermind"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#waters_pinkfloyd"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#sings"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#breed"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#raekwon"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#whiteLimo"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#canItAllBeSoSimple"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#guitare"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Bassiste"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#madeAlbum"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#wuTangClan"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#hasBecome"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#alternativeRock"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Guitare"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#classicRock"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#abbeyRoad"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#girls"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#fightForYourRight"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#joinedSince"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#inBloom"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#activeSince"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#rhyminNStealin"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#youNeverGiveMeYourMoney"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#darkSideOfTheMoon"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#isSongIn"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#usAndThem"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#brindDaRuckus"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#novolesic"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#grunge"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#theGreatGigInTheSky"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#piano"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#method_wutang"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#meanmr.Mustard"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#theNewStyle"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#something"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#somethingInTheWay"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#smear_foofighters"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#methodMan"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Batterie"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#gza_wutang"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#playsGenre"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#octopus’sGarden"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#noSleepTillBrooklyn"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Lennon"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#inspaectahDech"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#cream"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#smear"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#isMemberOf"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#hawkins_foofighters"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Instrument"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#gilmour"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#barrett_pinkfloyd"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#smear_nirvana"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#36Chambers"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#shiflet"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#onTheRun"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#posseInEffect"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#hasMember"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Guitariste"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#pinkFloyd"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#rza_wutang"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#drainYou"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#hasSong"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#chanson"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#wasMadeBy"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#disbanded"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#psychedelicRock"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#olDirtyBastard"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#grohl_foofighters"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#nbSongs"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#lithium"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Piano"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#bridgeBurning"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#waters"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#time"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#ghostfaceKillah"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#wuTangClanain’tNuthingTof***Wit"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#dearRosemary"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#mason_pinkfloyd"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Certification"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#chanteur"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#theBeatles"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Diamond"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#playsInstrument"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#nirvana"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#leftFrom"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#first_name"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#sheCameInThroughTheBathroomWindow"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#hasCertification"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#arlandria"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#shflet_foofighters"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#batterie"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#speakToMe/Breathe"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#year_of_death"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#polythenPam"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Ad-rock"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#daMysteryOfChessboxin"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#licensedToIll"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#oh!Darling"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#yauch"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#best_beatles"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#maxwell’sSilverHammer"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#duration"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#albumGenre"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#barrett"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#berry"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#last_name"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#mason"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#masta_wutang"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#comeTogether"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Mike-d"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#stayAway"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Genre"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#lennon_beatles"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#rock"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#berry_bboys"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#fooFighters"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#carryThatWeight"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Best"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#goldenSlumbers"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#rope"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#hasJoined"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#onAPlain"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#odb_wutang"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#year_of_birth"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Groupe"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#territorialPissings"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Starr"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#grohl"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#mastaKilla"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#wright_pinkfloyd"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#nbSells"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Membre"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Harisson"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Platinium"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#origin"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#raekwon_wutang"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#starr_beatles"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#sutcliff_beatles"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#protectYaNeck"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Pianiste"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#instrument"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#cobain"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Basse"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Batteur"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Chanteur"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#place_of_birth"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#smellsLikeTeenSpirit"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Hip-hop"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#anyColourYouLike"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Gold"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#harrison_beatles"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#yauch_bboys"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#pop/rock"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#ghostface_wutang"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#herMajesty"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#inspectah_wutang"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#MemberofBand"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#glimour_pinkfloyd"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#adrock_bboys"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#theEnd"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#contains"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#wright"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#basse"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#novolesic_nirvana"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#isPlayedBy"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#released"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#rza"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#gza"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Musicien"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#beastieBoys"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#miked_bboys"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#grohl_nirvana"/>
+    </Declaration>
+    <EquivalentClasses>
+        <Class IRI="#Album"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#albumGenre"/>
+            <Class IRI="#Genre"/>
+        </ObjectSomeValuesFrom>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI="#Album"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasCertification"/>
+            <Class IRI="#Certification"/>
+        </ObjectSomeValuesFrom>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI="#Album"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasSong"/>
+            <Class IRI="#chanson"/>
+        </ObjectSomeValuesFrom>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI="#Album"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#wasMadeBy"/>
+            <Class IRI="#Groupe"/>
+        </ObjectSomeValuesFrom>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI="#Bassiste"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#playsInstrument"/>
+            <Class IRI="#Basse"/>
+        </ObjectSomeValuesFrom>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI="#Batteur"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#playsInstrument"/>
+            <Class IRI="#Batterie"/>
+        </ObjectSomeValuesFrom>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI="#Chanteur"/>
+        <DataSomeValuesFrom>
+            <DataProperty IRI="#chanteur"/>
+            <Datatype abbreviatedIRI="xsd:boolean"/>
+        </DataSomeValuesFrom>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI="#Diamond"/>
+        <DataSomeValuesFrom>
+            <DataProperty IRI="#nbSells"/>
+            <DatatypeRestriction>
+                <Datatype abbreviatedIRI="xsd:integer"/>
+                <FacetRestriction facet="http://www.w3.org/2001/XMLSchema#minInclusive">
+                    <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">10000000</Literal>
+                </FacetRestriction>
+            </DatatypeRestriction>
+        </DataSomeValuesFrom>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI="#Gold"/>
+        <DataSomeValuesFrom>
+            <DataProperty IRI="#nbSells"/>
+            <DatatypeRestriction>
+                <Datatype abbreviatedIRI="xsd:integer"/>
+                <FacetRestriction facet="http://www.w3.org/2001/XMLSchema#minInclusive">
+                    <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">500000</Literal>
+                </FacetRestriction>
+            </DatatypeRestriction>
+        </DataSomeValuesFrom>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI="#Groupe"/>
+        <ObjectIntersectionOf>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#playsGenre"/>
+                <Class IRI="#Genre"/>
+            </ObjectSomeValuesFrom>
+            <ObjectMinCardinality cardinality="1">
+                <ObjectProperty IRI="#playsGenre"/>
+                <Class IRI="#Genre"/>
+            </ObjectMinCardinality>
+        </ObjectIntersectionOf>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI="#Groupe"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasMember"/>
+            <Class IRI="#Membre"/>
+        </ObjectSomeValuesFrom>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI="#Groupe"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#madeAlbum"/>
+            <Class IRI="#Album"/>
+        </ObjectSomeValuesFrom>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI="#Guitariste"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#playsInstrument"/>
+            <Class IRI="#Guitare"/>
+        </ObjectSomeValuesFrom>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI="#MemberofBand"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasJoined"/>
+            <Class IRI="#Groupe"/>
+        </ObjectSomeValuesFrom>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI="#Membre"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasBecome"/>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#hasJoined"/>
+                <Class IRI="#Groupe"/>
+            </ObjectSomeValuesFrom>
+        </ObjectSomeValuesFrom>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI="#Musicien"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#playsInstrument"/>
+            <Class IRI="#Instrument"/>
+        </ObjectSomeValuesFrom>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI="#Pianiste"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#playsInstrument"/>
+            <Class IRI="#Piano"/>
+        </ObjectSomeValuesFrom>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI="#Platinium"/>
+        <DataSomeValuesFrom>
+            <DataProperty IRI="#nbSells"/>
+            <DatatypeRestriction>
+                <Datatype abbreviatedIRI="xsd:integer"/>
+                <FacetRestriction facet="http://www.w3.org/2001/XMLSchema#minInclusive">
+                    <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">1000000</Literal>
+                </FacetRestriction>
+            </DatatypeRestriction>
+        </DataSomeValuesFrom>
+    </EquivalentClasses>
+    <SubClassOf>
+        <Class IRI="#Basse"/>
+        <Class IRI="#Instrument"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Bassiste"/>
+        <Class IRI="#Musicien"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Batterie"/>
+        <Class IRI="#Instrument"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Batteur"/>
+        <Class IRI="#Musicien"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Chanteur"/>
+        <Class IRI="#Person"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Diamond"/>
+        <Class IRI="#Certification"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Gold"/>
+        <Class IRI="#Certification"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Guitare"/>
+        <Class IRI="#Instrument"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Guitariste"/>
+        <Class IRI="#Musicien"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Musicien"/>
+        <Class IRI="#Person"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Pianiste"/>
+        <Class IRI="#Musicien"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Piano"/>
+        <Class IRI="#Instrument"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Platinium"/>
+        <Class IRI="#Certification"/>
+    </SubClassOf>
+    <ClassAssertion>
+        <Class IRI="#Person"/>
+        <NamedIndividual IRI="#Ad-rock"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Person"/>
+        <NamedIndividual IRI="#Best"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Person"/>
+        <NamedIndividual IRI="#Harisson"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Genre"/>
+        <NamedIndividual IRI="#Hip-hop"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Person"/>
+        <NamedIndividual IRI="#Lennon"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Person"/>
+        <NamedIndividual IRI="#Mike-d"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Person"/>
+        <NamedIndividual IRI="#Starr"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Person"/>
+        <NamedIndividual IRI="#Sutcliff"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Album"/>
+        <NamedIndividual IRI="#abbeyRoad"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#MemberofBand"/>
+        <NamedIndividual IRI="#adrock_bboys"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Genre"/>
+        <NamedIndividual IRI="#alternativeRock"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#chanson"/>
+        <NamedIndividual IRI="#anyColourYouLike"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#chanson"/>
+        <NamedIndividual IRI="#arlandria"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Person"/>
+        <NamedIndividual IRI="#barrett"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#MemberofBand"/>
+        <NamedIndividual IRI="#barrett_pinkfloyd"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Basse"/>
+        <NamedIndividual IRI="#basse"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Batterie"/>
+        <NamedIndividual IRI="#batterie"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Groupe"/>
+        <NamedIndividual IRI="#beastieBoys"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#chanson"/>
+        <NamedIndividual IRI="#because"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Person"/>
+        <NamedIndividual IRI="#berry"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#MemberofBand"/>
+        <NamedIndividual IRI="#berry_bboys"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#MemberofBand"/>
+        <NamedIndividual IRI="#best_beatles"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#chanson"/>
+        <NamedIndividual IRI="#brainDamage"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#chanson"/>
+        <NamedIndividual IRI="#breed"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#chanson"/>
+        <NamedIndividual IRI="#bridgeBurning"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#chanson"/>
+        <NamedIndividual IRI="#brindDaRuckus"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#chanson"/>
+        <NamedIndividual IRI="#canItAllBeSoSimple"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#chanson"/>
+        <NamedIndividual IRI="#carryThatWeight"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#chanson"/>
+        <NamedIndividual IRI="#clanInDaFront"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Genre"/>
+        <NamedIndividual IRI="#classicRock"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Person"/>
+        <NamedIndividual IRI="#cobain"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#MemberofBand"/>
+        <NamedIndividual IRI="#cobain_nirvana"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#chanson"/>
+        <NamedIndividual IRI="#comeAsYouAre"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#chanson"/>
+        <NamedIndividual IRI="#comeTogether"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#chanson"/>
+        <NamedIndividual IRI="#cream"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#chanson"/>
+        <NamedIndividual IRI="#daMysteryOfChessboxin"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Album"/>
+        <NamedIndividual IRI="#darkSideOfTheMoon"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#chanson"/>
+        <NamedIndividual IRI="#dearRosemary"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#chanson"/>
+        <NamedIndividual IRI="#drainYou"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#chanson"/>
+        <NamedIndividual IRI="#eclipse"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#chanson"/>
+        <NamedIndividual IRI="#fightForYourRight"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Groupe"/>
+        <NamedIndividual IRI="#fooFighters"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Person"/>
+        <NamedIndividual IRI="#ghostfaceKillah"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#MemberofBand"/>
+        <NamedIndividual IRI="#ghostface_wutang"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Person"/>
+        <NamedIndividual IRI="#gilmour"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#chanson"/>
+        <NamedIndividual IRI="#girls"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#MemberofBand"/>
+        <NamedIndividual IRI="#glimour_pinkfloyd"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#chanson"/>
+        <NamedIndividual IRI="#goldenSlumbers"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Person"/>
+        <NamedIndividual IRI="#grohl"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#MemberofBand"/>
+        <NamedIndividual IRI="#grohl_foofighters"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#MemberofBand"/>
+        <NamedIndividual IRI="#grohl_nirvana"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Genre"/>
+        <NamedIndividual IRI="#grunge"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Guitare"/>
+        <NamedIndividual IRI="#guitare"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Person"/>
+        <NamedIndividual IRI="#gza"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#MemberofBand"/>
+        <NamedIndividual IRI="#gza_wutang"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#MemberofBand"/>
+        <NamedIndividual IRI="#harrison_beatles"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Person"/>
+        <NamedIndividual IRI="#hawkins"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#MemberofBand"/>
+        <NamedIndividual IRI="#hawkins_foofighters"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#chanson"/>
+        <NamedIndividual IRI="#herMajesty"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#chanson"/>
+        <NamedIndividual IRI="#hereComesTheSun"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#chanson"/>
+        <NamedIndividual IRI="#inBloom"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Person"/>
+        <NamedIndividual IRI="#inspaectahDech"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#MemberofBand"/>
+        <NamedIndividual IRI="#inspectah_wutang"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#MemberofBand"/>
+        <NamedIndividual IRI="#lennon_beatles"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Album"/>
+        <NamedIndividual IRI="#licensedToIll"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#chanson"/>
+        <NamedIndividual IRI="#lithium"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#chanson"/>
+        <NamedIndividual IRI="#loungeAct"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Person"/>
+        <NamedIndividual IRI="#mason"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#MemberofBand"/>
+        <NamedIndividual IRI="#mason_pinkfloyd"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Person"/>
+        <NamedIndividual IRI="#mastaKilla"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#MemberofBand"/>
+        <NamedIndividual IRI="#masta_wutang"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Person"/>
+        <NamedIndividual IRI="#mcCartney"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#MemberofBand"/>
+        <NamedIndividual IRI="#mccartney_beatles"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#chanson"/>
+        <NamedIndividual IRI="#meanmr.Mustard"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Person"/>
+        <NamedIndividual IRI="#mendel"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#MemberofBand"/>
+        <NamedIndividual IRI="#mendel_foo_fighters"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Person"/>
+        <NamedIndividual IRI="#methodMan"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#chanson"/>
+        <NamedIndividual IRI="#methodMan"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#MemberofBand"/>
+        <NamedIndividual IRI="#method_wutang"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#MemberofBand"/>
+        <NamedIndividual IRI="#miked_bboys"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#chanson"/>
+        <NamedIndividual IRI="#money"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Album"/>
+        <NamedIndividual IRI="#nevermind"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Groupe"/>
+        <NamedIndividual IRI="#nirvana"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#chanson"/>
+        <NamedIndividual IRI="#noSleepTillBrooklyn"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Person"/>
+        <NamedIndividual IRI="#novolesic"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#MemberofBand"/>
+        <NamedIndividual IRI="#novolesic_nirvana"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#MemberofBand"/>
+        <NamedIndividual IRI="#odb_wutang"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Person"/>
+        <NamedIndividual IRI="#olDirtyBastard"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#chanson"/>
+        <NamedIndividual IRI="#onAPlain"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#chanson"/>
+        <NamedIndividual IRI="#onTheRun"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Piano"/>
+        <NamedIndividual IRI="#piano"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Groupe"/>
+        <NamedIndividual IRI="#pinkFloyd"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#chanson"/>
+        <NamedIndividual IRI="#polly"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#chanson"/>
+        <NamedIndividual IRI="#polythenPam"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#chanson"/>
+        <NamedIndividual IRI="#posseInEffect"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Genre"/>
+        <NamedIndividual IRI="#progressiveRock"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#chanson"/>
+        <NamedIndividual IRI="#protectYaNeck"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Genre"/>
+        <NamedIndividual IRI="#psychedelicRock"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Person"/>
+        <NamedIndividual IRI="#raekwon"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#MemberofBand"/>
+        <NamedIndividual IRI="#raekwon_wutang"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#chanson"/>
+        <NamedIndividual IRI="#rhyminNStealin"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Genre"/>
+        <NamedIndividual IRI="#rock"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#chanson"/>
+        <NamedIndividual IRI="#rope"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Person"/>
+        <NamedIndividual IRI="#rza"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#MemberofBand"/>
+        <NamedIndividual IRI="#rza_wutang"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#chanson"/>
+        <NamedIndividual IRI="#shameOnANigga"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#chanson"/>
+        <NamedIndividual IRI="#sheCameInThroughTheBathroomWindow"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#MemberofBand"/>
+        <NamedIndividual IRI="#shflet_foofighters"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Person"/>
+        <NamedIndividual IRI="#shiflet"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#chanson"/>
+        <NamedIndividual IRI="#slowRide"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Person"/>
+        <NamedIndividual IRI="#smear"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#MemberofBand"/>
+        <NamedIndividual IRI="#smear_foofighters"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#MemberofBand"/>
+        <NamedIndividual IRI="#smear_nirvana"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#chanson"/>
+        <NamedIndividual IRI="#smellsLikeTeenSpirit"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#chanson"/>
+        <NamedIndividual IRI="#something"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#chanson"/>
+        <NamedIndividual IRI="#somethingInTheWay"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#MemberofBand"/>
+        <NamedIndividual IRI="#starr_beatles"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#chanson"/>
+        <NamedIndividual IRI="#stayAway"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#chanson"/>
+        <NamedIndividual IRI="#sunKing"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#MemberofBand"/>
+        <NamedIndividual IRI="#sutcliff_beatles"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#chanson"/>
+        <NamedIndividual IRI="#territorialPissings"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Groupe"/>
+        <NamedIndividual IRI="#theBeatles"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#chanson"/>
+        <NamedIndividual IRI="#theEnd"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#chanson"/>
+        <NamedIndividual IRI="#theGreatGigInTheSky"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#chanson"/>
+        <NamedIndividual IRI="#theNewStyle"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#chanson"/>
+        <NamedIndividual IRI="#theseDays"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#chanson"/>
+        <NamedIndividual IRI="#time"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#chanson"/>
+        <NamedIndividual IRI="#usAndThem"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Album"/>
+        <NamedIndividual IRI="#wastingLights"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Person"/>
+        <NamedIndividual IRI="#waters"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#MemberofBand"/>
+        <NamedIndividual IRI="#waters_pinkfloyd"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#chanson"/>
+        <NamedIndividual IRI="#whiteLimo"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Person"/>
+        <NamedIndividual IRI="#wright"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#MemberofBand"/>
+        <NamedIndividual IRI="#wright_pinkfloyd"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#chanson"/>
+        <NamedIndividual IRI="#wuTang7thChamber"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Groupe"/>
+        <NamedIndividual IRI="#wuTangClan"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Person"/>
+        <NamedIndividual IRI="#yauch"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#MemberofBand"/>
+        <NamedIndividual IRI="#yauch_bboys"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#chanson"/>
+        <NamedIndividual IRI="#youNeverGiveMeYourMoney"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Album"/>
+        <NamedIndividual IRI="#36Chambers"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#chanson"/>
+        <NamedIndividual IRI="#maxwell’sSilverHammer"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#chanson"/>
+        <NamedIndividual IRI="#octopus’sGarden"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#chanson"/>
+        <NamedIndividual IRI="#oh!Darling"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Genre"/>
+        <NamedIndividual IRI="#pop/rock"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#chanson"/>
+        <NamedIndividual IRI="#shes’sCrafty"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#chanson"/>
+        <NamedIndividual IRI="#speakToMe/Breathe"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#chanson"/>
+        <NamedIndividual IRI="#wuTangClanain’tNuthingTof***Wit"/>
+    </ClassAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#hasBecome"/>
+        <NamedIndividual IRI="#Ad-rock"/>
+        <NamedIndividual IRI="#adrock_bboys"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#playsInstrument"/>
+        <NamedIndividual IRI="#Ad-rock"/>
+        <NamedIndividual IRI="#guitare"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#hasBecome"/>
+        <NamedIndividual IRI="#Best"/>
+        <NamedIndividual IRI="#best_beatles"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#playsInstrument"/>
+        <NamedIndividual IRI="#Best"/>
+        <NamedIndividual IRI="#batterie"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#hasBecome"/>
+        <NamedIndividual IRI="#Harisson"/>
+        <NamedIndividual IRI="#harrison_beatles"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#playsInstrument"/>
+        <NamedIndividual IRI="#Harisson"/>
+        <NamedIndividual IRI="#basse"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#hasBecome"/>
+        <NamedIndividual IRI="#Lennon"/>
+        <NamedIndividual IRI="#lennon_beatles"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#playsInstrument"/>
+        <NamedIndividual IRI="#Lennon"/>
+        <NamedIndividual IRI="#guitare"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#playsInstrument"/>
+        <NamedIndividual IRI="#Lennon"/>
+        <NamedIndividual IRI="#piano"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#hasBecome"/>
+        <NamedIndividual IRI="#Mike-d"/>
+        <NamedIndividual IRI="#miked_bboys"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#playsInstrument"/>
+        <NamedIndividual IRI="#Mike-d"/>
+        <NamedIndividual IRI="#batterie"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#hasBecome"/>
+        <NamedIndividual IRI="#Starr"/>
+        <NamedIndividual IRI="#starr_beatles"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#playsInstrument"/>
+        <NamedIndividual IRI="#Starr"/>
+        <NamedIndividual IRI="#batterie"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#playsInstrument"/>
+        <NamedIndividual IRI="#Starr"/>
+        <NamedIndividual IRI="#piano"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#hasBecome"/>
+        <NamedIndividual IRI="#Sutcliff"/>
+        <NamedIndividual IRI="#sutcliff_beatles"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#playsInstrument"/>
+        <NamedIndividual IRI="#Sutcliff"/>
+        <NamedIndividual IRI="#basse"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#albumGenre"/>
+        <NamedIndividual IRI="#abbeyRoad"/>
+        <NamedIndividual IRI="#classicRock"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#albumGenre"/>
+        <NamedIndividual IRI="#abbeyRoad"/>
+        <NamedIndividual IRI="#rock"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#albumGenre"/>
+        <NamedIndividual IRI="#abbeyRoad"/>
+        <NamedIndividual IRI="#pop/rock"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#wasMadeBy"/>
+        <NamedIndividual IRI="#abbeyRoad"/>
+        <NamedIndividual IRI="#theBeatles"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#hasJoined"/>
+        <NamedIndividual IRI="#adrock_bboys"/>
+        <NamedIndividual IRI="#beastieBoys"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#isSongIn"/>
+        <NamedIndividual IRI="#anyColourYouLike"/>
+        <NamedIndividual IRI="#darkSideOfTheMoon"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#isSongIn"/>
+        <NamedIndividual IRI="#arlandria"/>
+        <NamedIndividual IRI="#wastingLights"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#hasBecome"/>
+        <NamedIndividual IRI="#barrett"/>
+        <NamedIndividual IRI="#barrett_pinkfloyd"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#playsInstrument"/>
+        <NamedIndividual IRI="#barrett"/>
+        <NamedIndividual IRI="#guitare"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#hasJoined"/>
+        <NamedIndividual IRI="#barrett_pinkfloyd"/>
+        <NamedIndividual IRI="#pinkFloyd"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#isSongIn"/>
+        <NamedIndividual IRI="#because"/>
+        <NamedIndividual IRI="#abbeyRoad"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#hasBecome"/>
+        <NamedIndividual IRI="#berry"/>
+        <NamedIndividual IRI="#berry_bboys"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#playsInstrument"/>
+        <NamedIndividual IRI="#berry"/>
+        <NamedIndividual IRI="#guitare"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#hasJoined"/>
+        <NamedIndividual IRI="#berry_bboys"/>
+        <NamedIndividual IRI="#beastieBoys"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#hasJoined"/>
+        <NamedIndividual IRI="#best_beatles"/>
+        <NamedIndividual IRI="#theBeatles"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#isSongIn"/>
+        <NamedIndividual IRI="#brainDamage"/>
+        <NamedIndividual IRI="#darkSideOfTheMoon"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#isSongIn"/>
+        <NamedIndividual IRI="#breed"/>
+        <NamedIndividual IRI="#nevermind"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#isSongIn"/>
+        <NamedIndividual IRI="#bridgeBurning"/>
+        <NamedIndividual IRI="#wastingLights"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#isSongIn"/>
+        <NamedIndividual IRI="#brindDaRuckus"/>
+        <NamedIndividual IRI="#36Chambers"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#isSongIn"/>
+        <NamedIndividual IRI="#canItAllBeSoSimple"/>
+        <NamedIndividual IRI="#36Chambers"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#isSongIn"/>
+        <NamedIndividual IRI="#carryThatWeight"/>
+        <NamedIndividual IRI="#abbeyRoad"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#isSongIn"/>
+        <NamedIndividual IRI="#clanInDaFront"/>
+        <NamedIndividual IRI="#36Chambers"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#hasBecome"/>
+        <NamedIndividual IRI="#cobain"/>
+        <NamedIndividual IRI="#cobain_nirvana"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#playsInstrument"/>
+        <NamedIndividual IRI="#cobain"/>
+        <NamedIndividual IRI="#guitare"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#hasJoined"/>
+        <NamedIndividual IRI="#cobain_nirvana"/>
+        <NamedIndividual IRI="#nirvana"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#isSongIn"/>
+        <NamedIndividual IRI="#comeAsYouAre"/>
+        <NamedIndividual IRI="#nevermind"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#isSongIn"/>
+        <NamedIndividual IRI="#comeTogether"/>
+        <NamedIndividual IRI="#abbeyRoad"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#isSongIn"/>
+        <NamedIndividual IRI="#cream"/>
+        <NamedIndividual IRI="#36Chambers"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#isSongIn"/>
+        <NamedIndividual IRI="#daMysteryOfChessboxin"/>
+        <NamedIndividual IRI="#36Chambers"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#albumGenre"/>
+        <NamedIndividual IRI="#darkSideOfTheMoon"/>
+        <NamedIndividual IRI="#progressiveRock"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#albumGenre"/>
+        <NamedIndividual IRI="#darkSideOfTheMoon"/>
+        <NamedIndividual IRI="#psychedelicRock"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#wasMadeBy"/>
+        <NamedIndividual IRI="#darkSideOfTheMoon"/>
+        <NamedIndividual IRI="#pinkFloyd"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#isSongIn"/>
+        <NamedIndividual IRI="#dearRosemary"/>
+        <NamedIndividual IRI="#wastingLights"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#isSongIn"/>
+        <NamedIndividual IRI="#drainYou"/>
+        <NamedIndividual IRI="#nevermind"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#isSongIn"/>
+        <NamedIndividual IRI="#eclipse"/>
+        <NamedIndividual IRI="#darkSideOfTheMoon"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#isSongIn"/>
+        <NamedIndividual IRI="#fightForYourRight"/>
+        <NamedIndividual IRI="#licensedToIll"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#hasBecome"/>
+        <NamedIndividual IRI="#ghostfaceKillah"/>
+        <NamedIndividual IRI="#ghostface_wutang"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#hasJoined"/>
+        <NamedIndividual IRI="#ghostface_wutang"/>
+        <NamedIndividual IRI="#wuTangClan"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#hasBecome"/>
+        <NamedIndividual IRI="#gilmour"/>
+        <NamedIndividual IRI="#glimour_pinkfloyd"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#playsInstrument"/>
+        <NamedIndividual IRI="#gilmour"/>
+        <NamedIndividual IRI="#guitare"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#isSongIn"/>
+        <NamedIndividual IRI="#girls"/>
+        <NamedIndividual IRI="#licensedToIll"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#hasJoined"/>
+        <NamedIndividual IRI="#glimour_pinkfloyd"/>
+        <NamedIndividual IRI="#pinkFloyd"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#isSongIn"/>
+        <NamedIndividual IRI="#goldenSlumbers"/>
+        <NamedIndividual IRI="#abbeyRoad"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#hasBecome"/>
+        <NamedIndividual IRI="#grohl"/>
+        <NamedIndividual IRI="#grohl_foofighters"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#hasBecome"/>
+        <NamedIndividual IRI="#grohl"/>
+        <NamedIndividual IRI="#grohl_nirvana"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#playsInstrument"/>
+        <NamedIndividual IRI="#grohl"/>
+        <NamedIndividual IRI="#batterie"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#playsInstrument"/>
+        <NamedIndividual IRI="#grohl"/>
+        <NamedIndividual IRI="#guitare"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#hasJoined"/>
+        <NamedIndividual IRI="#grohl_foofighters"/>
+        <NamedIndividual IRI="#fooFighters"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#hasJoined"/>
+        <NamedIndividual IRI="#grohl_foofighters"/>
+        <NamedIndividual IRI="#nirvana"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#hasJoined"/>
+        <NamedIndividual IRI="#grohl_nirvana"/>
+        <NamedIndividual IRI="#nirvana"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#hasBecome"/>
+        <NamedIndividual IRI="#gza"/>
+        <NamedIndividual IRI="#gza_wutang"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#hasJoined"/>
+        <NamedIndividual IRI="#gza_wutang"/>
+        <NamedIndividual IRI="#wuTangClan"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#hasJoined"/>
+        <NamedIndividual IRI="#harrison_beatles"/>
+        <NamedIndividual IRI="#theBeatles"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#hasBecome"/>
+        <NamedIndividual IRI="#hawkins"/>
+        <NamedIndividual IRI="#hawkins_foofighters"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#playsInstrument"/>
+        <NamedIndividual IRI="#hawkins"/>
+        <NamedIndividual IRI="#batterie"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#hasJoined"/>
+        <NamedIndividual IRI="#hawkins_foofighters"/>
+        <NamedIndividual IRI="#fooFighters"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#isSongIn"/>
+        <NamedIndividual IRI="#herMajesty"/>
+        <NamedIndividual IRI="#abbeyRoad"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#isSongIn"/>
+        <NamedIndividual IRI="#hereComesTheSun"/>
+        <NamedIndividual IRI="#abbeyRoad"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#isSongIn"/>
+        <NamedIndividual IRI="#inBloom"/>
+        <NamedIndividual IRI="#nevermind"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#hasBecome"/>
+        <NamedIndividual IRI="#inspaectahDech"/>
+        <NamedIndividual IRI="#inspectah_wutang"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#hasJoined"/>
+        <NamedIndividual IRI="#inspectah_wutang"/>
+        <NamedIndividual IRI="#wuTangClan"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#hasJoined"/>
+        <NamedIndividual IRI="#lennon_beatles"/>
+        <NamedIndividual IRI="#theBeatles"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#albumGenre"/>
+        <NamedIndividual IRI="#licensedToIll"/>
+        <NamedIndividual IRI="#Hip-hop"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#albumGenre"/>
+        <NamedIndividual IRI="#licensedToIll"/>
+        <NamedIndividual IRI="#rock"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#wasMadeBy"/>
+        <NamedIndividual IRI="#licensedToIll"/>
+        <NamedIndividual IRI="#beastieBoys"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#isSongIn"/>
+        <NamedIndividual IRI="#lithium"/>
+        <NamedIndividual IRI="#nevermind"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#isSongIn"/>
+        <NamedIndividual IRI="#loungeAct"/>
+        <NamedIndividual IRI="#nevermind"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#hasBecome"/>
+        <NamedIndividual IRI="#mason"/>
+        <NamedIndividual IRI="#mason_pinkfloyd"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#playsInstrument"/>
+        <NamedIndividual IRI="#mason"/>
+        <NamedIndividual IRI="#batterie"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#hasJoined"/>
+        <NamedIndividual IRI="#mason_pinkfloyd"/>
+        <NamedIndividual IRI="#pinkFloyd"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#hasBecome"/>
+        <NamedIndividual IRI="#mastaKilla"/>
+        <NamedIndividual IRI="#masta_wutang"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#hasJoined"/>
+        <NamedIndividual IRI="#masta_wutang"/>
+        <NamedIndividual IRI="#wuTangClan"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#hasBecome"/>
+        <NamedIndividual IRI="#mcCartney"/>
+        <NamedIndividual IRI="#mccartney_beatles"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#playsInstrument"/>
+        <NamedIndividual IRI="#mcCartney"/>
+        <NamedIndividual IRI="#basse"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#playsInstrument"/>
+        <NamedIndividual IRI="#mcCartney"/>
+        <NamedIndividual IRI="#guitare"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#playsInstrument"/>
+        <NamedIndividual IRI="#mcCartney"/>
+        <NamedIndividual IRI="#piano"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#hasJoined"/>
+        <NamedIndividual IRI="#mccartney_beatles"/>
+        <NamedIndividual IRI="#theBeatles"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#isSongIn"/>
+        <NamedIndividual IRI="#meanmr.Mustard"/>
+        <NamedIndividual IRI="#abbeyRoad"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#hasBecome"/>
+        <NamedIndividual IRI="#mendel"/>
+        <NamedIndividual IRI="#mendel_foo_fighters"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#playsInstrument"/>
+        <NamedIndividual IRI="#mendel"/>
+        <NamedIndividual IRI="#basse"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#hasJoined"/>
+        <NamedIndividual IRI="#mendel_foo_fighters"/>
+        <NamedIndividual IRI="#fooFighters"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#hasBecome"/>
+        <NamedIndividual IRI="#methodMan"/>
+        <NamedIndividual IRI="#method_wutang"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#isSongIn"/>
+        <NamedIndividual IRI="#methodMan"/>
+        <NamedIndividual IRI="#36Chambers"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#hasJoined"/>
+        <NamedIndividual IRI="#method_wutang"/>
+        <NamedIndividual IRI="#wuTangClan"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#hasJoined"/>
+        <NamedIndividual IRI="#miked_bboys"/>
+        <NamedIndividual IRI="#beastieBoys"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#isSongIn"/>
+        <NamedIndividual IRI="#money"/>
+        <NamedIndividual IRI="#darkSideOfTheMoon"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#albumGenre"/>
+        <NamedIndividual IRI="#nevermind"/>
+        <NamedIndividual IRI="#alternativeRock"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#albumGenre"/>
+        <NamedIndividual IRI="#nevermind"/>
+        <NamedIndividual IRI="#grunge"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#wasMadeBy"/>
+        <NamedIndividual IRI="#nevermind"/>
+        <NamedIndividual IRI="#nirvana"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#isSongIn"/>
+        <NamedIndividual IRI="#noSleepTillBrooklyn"/>
+        <NamedIndividual IRI="#licensedToIll"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#hasBecome"/>
+        <NamedIndividual IRI="#novolesic"/>
+        <NamedIndividual IRI="#novolesic_nirvana"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#playsInstrument"/>
+        <NamedIndividual IRI="#novolesic"/>
+        <NamedIndividual IRI="#basse"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#hasJoined"/>
+        <NamedIndividual IRI="#novolesic_nirvana"/>
+        <NamedIndividual IRI="#nirvana"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#hasJoined"/>
+        <NamedIndividual IRI="#odb_wutang"/>
+        <NamedIndividual IRI="#wuTangClan"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#hasBecome"/>
+        <NamedIndividual IRI="#olDirtyBastard"/>
+        <NamedIndividual IRI="#odb_wutang"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#isSongIn"/>
+        <NamedIndividual IRI="#onAPlain"/>
+        <NamedIndividual IRI="#nevermind"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#isSongIn"/>
+        <NamedIndividual IRI="#onTheRun"/>
+        <NamedIndividual IRI="#darkSideOfTheMoon"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#isSongIn"/>
+        <NamedIndividual IRI="#polly"/>
+        <NamedIndividual IRI="#nevermind"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#isSongIn"/>
+        <NamedIndividual IRI="#polythenPam"/>
+        <NamedIndividual IRI="#abbeyRoad"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#isSongIn"/>
+        <NamedIndividual IRI="#posseInEffect"/>
+        <NamedIndividual IRI="#licensedToIll"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#isSongIn"/>
+        <NamedIndividual IRI="#protectYaNeck"/>
+        <NamedIndividual IRI="#36Chambers"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#hasBecome"/>
+        <NamedIndividual IRI="#raekwon"/>
+        <NamedIndividual IRI="#raekwon_wutang"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#hasJoined"/>
+        <NamedIndividual IRI="#raekwon_wutang"/>
+        <NamedIndividual IRI="#wuTangClan"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#isSongIn"/>
+        <NamedIndividual IRI="#rhyminNStealin"/>
+        <NamedIndividual IRI="#licensedToIll"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#isSongIn"/>
+        <NamedIndividual IRI="#rope"/>
+        <NamedIndividual IRI="#wastingLights"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#hasBecome"/>
+        <NamedIndividual IRI="#rza"/>
+        <NamedIndividual IRI="#rza_wutang"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#hasJoined"/>
+        <NamedIndividual IRI="#rza_wutang"/>
+        <NamedIndividual IRI="#wuTangClan"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#isSongIn"/>
+        <NamedIndividual IRI="#shameOnANigga"/>
+        <NamedIndividual IRI="#36Chambers"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#isSongIn"/>
+        <NamedIndividual IRI="#sheCameInThroughTheBathroomWindow"/>
+        <NamedIndividual IRI="#abbeyRoad"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#hasJoined"/>
+        <NamedIndividual IRI="#shflet_foofighters"/>
+        <NamedIndividual IRI="#fooFighters"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#hasBecome"/>
+        <NamedIndividual IRI="#shiflet"/>
+        <NamedIndividual IRI="#shflet_foofighters"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#playsInstrument"/>
+        <NamedIndividual IRI="#shiflet"/>
+        <NamedIndividual IRI="#guitare"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#isSongIn"/>
+        <NamedIndividual IRI="#slowRide"/>
+        <NamedIndividual IRI="#licensedToIll"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#hasBecome"/>
+        <NamedIndividual IRI="#smear"/>
+        <NamedIndividual IRI="#smear_foofighters"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#hasBecome"/>
+        <NamedIndividual IRI="#smear"/>
+        <NamedIndividual IRI="#smear_nirvana"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#playsInstrument"/>
+        <NamedIndividual IRI="#smear"/>
+        <NamedIndividual IRI="#guitare"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#hasJoined"/>
+        <NamedIndividual IRI="#smear_foofighters"/>
+        <NamedIndividual IRI="#fooFighters"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#hasJoined"/>
+        <NamedIndividual IRI="#smear_nirvana"/>
+        <NamedIndividual IRI="#nirvana"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#isSongIn"/>
+        <NamedIndividual IRI="#smellsLikeTeenSpirit"/>
+        <NamedIndividual IRI="#nevermind"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#isSongIn"/>
+        <NamedIndividual IRI="#something"/>
+        <NamedIndividual IRI="#abbeyRoad"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#isSongIn"/>
+        <NamedIndividual IRI="#somethingInTheWay"/>
+        <NamedIndividual IRI="#nevermind"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#hasJoined"/>
+        <NamedIndividual IRI="#starr_beatles"/>
+        <NamedIndividual IRI="#theBeatles"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#isSongIn"/>
+        <NamedIndividual IRI="#stayAway"/>
+        <NamedIndividual IRI="#nevermind"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#isSongIn"/>
+        <NamedIndividual IRI="#sunKing"/>
+        <NamedIndividual IRI="#abbeyRoad"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#hasJoined"/>
+        <NamedIndividual IRI="#sutcliff_beatles"/>
+        <NamedIndividual IRI="#theBeatles"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#isSongIn"/>
+        <NamedIndividual IRI="#territorialPissings"/>
+        <NamedIndividual IRI="#nevermind"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#isSongIn"/>
+        <NamedIndividual IRI="#theEnd"/>
+        <NamedIndividual IRI="#abbeyRoad"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#isSongIn"/>
+        <NamedIndividual IRI="#theGreatGigInTheSky"/>
+        <NamedIndividual IRI="#darkSideOfTheMoon"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#isSongIn"/>
+        <NamedIndividual IRI="#theNewStyle"/>
+        <NamedIndividual IRI="#licensedToIll"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#isSongIn"/>
+        <NamedIndividual IRI="#theseDays"/>
+        <NamedIndividual IRI="#wastingLights"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#isSongIn"/>
+        <NamedIndividual IRI="#time"/>
+        <NamedIndividual IRI="#darkSideOfTheMoon"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#isSongIn"/>
+        <NamedIndividual IRI="#usAndThem"/>
+        <NamedIndividual IRI="#darkSideOfTheMoon"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#albumGenre"/>
+        <NamedIndividual IRI="#wastingLights"/>
+        <NamedIndividual IRI="#alternativeRock"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#albumGenre"/>
+        <NamedIndividual IRI="#wastingLights"/>
+        <NamedIndividual IRI="#grunge"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#wasMadeBy"/>
+        <NamedIndividual IRI="#wastingLights"/>
+        <NamedIndividual IRI="#fooFighters"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#hasBecome"/>
+        <NamedIndividual IRI="#waters"/>
+        <NamedIndividual IRI="#waters_pinkfloyd"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#playsInstrument"/>
+        <NamedIndividual IRI="#waters"/>
+        <NamedIndividual IRI="#basse"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#playsInstrument"/>
+        <NamedIndividual IRI="#waters"/>
+        <NamedIndividual IRI="#guitare"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#playsInstrument"/>
+        <NamedIndividual IRI="#waters"/>
+        <NamedIndividual IRI="#piano"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#hasJoined"/>
+        <NamedIndividual IRI="#waters_pinkfloyd"/>
+        <NamedIndividual IRI="#pinkFloyd"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#isSongIn"/>
+        <NamedIndividual IRI="#whiteLimo"/>
+        <NamedIndividual IRI="#wastingLights"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#hasBecome"/>
+        <NamedIndividual IRI="#wright"/>
+        <NamedIndividual IRI="#wright_pinkfloyd"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#playsInstrument"/>
+        <NamedIndividual IRI="#wright"/>
+        <NamedIndividual IRI="#piano"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#hasJoined"/>
+        <NamedIndividual IRI="#wright_pinkfloyd"/>
+        <NamedIndividual IRI="#pinkFloyd"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#isSongIn"/>
+        <NamedIndividual IRI="#wuTang7thChamber"/>
+        <NamedIndividual IRI="#36Chambers"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#hasBecome"/>
+        <NamedIndividual IRI="#yauch"/>
+        <NamedIndividual IRI="#yauch_bboys"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#playsInstrument"/>
+        <NamedIndividual IRI="#yauch"/>
+        <NamedIndividual IRI="#basse"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#hasJoined"/>
+        <NamedIndividual IRI="#yauch_bboys"/>
+        <NamedIndividual IRI="#beastieBoys"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#isSongIn"/>
+        <NamedIndividual IRI="#youNeverGiveMeYourMoney"/>
+        <NamedIndividual IRI="#abbeyRoad"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#albumGenre"/>
+        <NamedIndividual IRI="#36Chambers"/>
+        <NamedIndividual IRI="#Hip-hop"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#wasMadeBy"/>
+        <NamedIndividual IRI="#36Chambers"/>
+        <NamedIndividual IRI="#wuTangClan"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#isSongIn"/>
+        <NamedIndividual IRI="#maxwell’sSilverHammer"/>
+        <NamedIndividual IRI="#abbeyRoad"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#isSongIn"/>
+        <NamedIndividual IRI="#octopus’sGarden"/>
+        <NamedIndividual IRI="#abbeyRoad"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#isSongIn"/>
+        <NamedIndividual IRI="#oh!Darling"/>
+        <NamedIndividual IRI="#abbeyRoad"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#isSongIn"/>
+        <NamedIndividual IRI="#shes’sCrafty"/>
+        <NamedIndividual IRI="#licensedToIll"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#isSongIn"/>
+        <NamedIndividual IRI="#speakToMe/Breathe"/>
+        <NamedIndividual IRI="#darkSideOfTheMoon"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#isSongIn"/>
+        <NamedIndividual IRI="#wuTangClanain’tNuthingTof***Wit"/>
+        <NamedIndividual IRI="#36Chambers"/>
+    </ObjectPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#chanteur"/>
+        <NamedIndividual IRI="#Ad-rock"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#boolean">false</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#last_name"/>
+        <NamedIndividual IRI="#Ad-rock"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Ad-rock</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#place_of_birth"/>
+        <NamedIndividual IRI="#Ad-rock"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">usa</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#year_of_birth"/>
+        <NamedIndividual IRI="#Ad-rock"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">1966</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#first_name"/>
+        <NamedIndividual IRI="#Best"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Pete</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#last_name"/>
+        <NamedIndividual IRI="#Best"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Best</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#place_of_birth"/>
+        <NamedIndividual IRI="#Best"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">uk</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#year_of_birth"/>
+        <NamedIndividual IRI="#Best"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">1941</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#chanteur"/>
+        <NamedIndividual IRI="#Harisson"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#boolean">false</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#first_name"/>
+        <NamedIndividual IRI="#Harisson"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">George</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#last_name"/>
+        <NamedIndividual IRI="#Harisson"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Harisson</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#place_of_birth"/>
+        <NamedIndividual IRI="#Harisson"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">uk</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#year_of_birth"/>
+        <NamedIndividual IRI="#Harisson"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">1943</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#year_of_death"/>
+        <NamedIndividual IRI="#Harisson"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">2001</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#chanteur"/>
+        <NamedIndividual IRI="#Lennon"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#boolean">false</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#first_name"/>
+        <NamedIndividual IRI="#Lennon"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">john</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#last_name"/>
+        <NamedIndividual IRI="#Lennon"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Lennon</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#place_of_birth"/>
+        <NamedIndividual IRI="#Lennon"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">uk</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#year_of_birth"/>
+        <NamedIndividual IRI="#Lennon"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">1940</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#year_of_death"/>
+        <NamedIndividual IRI="#Lennon"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">1980</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#chanteur"/>
+        <NamedIndividual IRI="#Mike-d"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#boolean">false</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#last_name"/>
+        <NamedIndividual IRI="#Mike-d"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Mike-d</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#place_of_birth"/>
+        <NamedIndividual IRI="#Mike-d"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">usa</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#year_of_birth"/>
+        <NamedIndividual IRI="#Mike-d"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">1965</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#first_name"/>
+        <NamedIndividual IRI="#Starr"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Ringo</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#last_name"/>
+        <NamedIndividual IRI="#Starr"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Starr</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#place_of_birth"/>
+        <NamedIndividual IRI="#Starr"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">uk</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#year_of_birth"/>
+        <NamedIndividual IRI="#Starr"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">1940</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#first_name"/>
+        <NamedIndividual IRI="#Sutcliff"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Stuart</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#last_name"/>
+        <NamedIndividual IRI="#Sutcliff"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Sutcliff</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#place_of_birth"/>
+        <NamedIndividual IRI="#Sutcliff"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">uk</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#year_of_birth"/>
+        <NamedIndividual IRI="#Sutcliff"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">1940</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#year_of_death"/>
+        <NamedIndividual IRI="#Sutcliff"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">1962</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#duration"/>
+        <NamedIndividual IRI="#abbeyRoad"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">47.16</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#nbSells"/>
+        <NamedIndividual IRI="#abbeyRoad"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">40000000</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#released"/>
+        <NamedIndividual IRI="#abbeyRoad"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">1969</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#joinedSince"/>
+        <NamedIndividual IRI="#adrock_bboys"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">1982</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#leftFrom"/>
+        <NamedIndividual IRI="#adrock_bboys"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">2012</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#duration"/>
+        <NamedIndividual IRI="#anyColourYouLike"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">3.26</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#duration"/>
+        <NamedIndividual IRI="#arlandria"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">4.28</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#chanteur"/>
+        <NamedIndividual IRI="#barrett"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#boolean">false</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#first_name"/>
+        <NamedIndividual IRI="#barrett"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">syd</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#last_name"/>
+        <NamedIndividual IRI="#barrett"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">barrett</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#place_of_birth"/>
+        <NamedIndividual IRI="#barrett"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">uk</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#year_of_birth"/>
+        <NamedIndividual IRI="#barrett"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">1946</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#year_of_death"/>
+        <NamedIndividual IRI="#barrett"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">2006</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#joinedSince"/>
+        <NamedIndividual IRI="#barrett_pinkfloyd"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">1965</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#leftFrom"/>
+        <NamedIndividual IRI="#barrett_pinkfloyd"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">1968</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#activeSince"/>
+        <NamedIndividual IRI="#beastieBoys"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">1981</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#disbanded"/>
+        <NamedIndividual IRI="#beastieBoys"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">2012</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#origin"/>
+        <NamedIndividual IRI="#beastieBoys"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">new york</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#duration"/>
+        <NamedIndividual IRI="#because"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">2.45</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#first_name"/>
+        <NamedIndividual IRI="#berry"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">john</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#last_name"/>
+        <NamedIndividual IRI="#berry"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">berry</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#place_of_birth"/>
+        <NamedIndividual IRI="#berry"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">usa</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#year_of_birth"/>
+        <NamedIndividual IRI="#berry"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">1963</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#joinedSince"/>
+        <NamedIndividual IRI="#berry_bboys"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">1981</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#leftFrom"/>
+        <NamedIndividual IRI="#berry_bboys"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">1982</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#joinedSince"/>
+        <NamedIndividual IRI="#best_beatles"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">1960</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#leftFrom"/>
+        <NamedIndividual IRI="#best_beatles"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">1962</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#duration"/>
+        <NamedIndividual IRI="#brainDamage"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">3.47</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#duration"/>
+        <NamedIndividual IRI="#breed"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">3.03</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#duration"/>
+        <NamedIndividual IRI="#bridgeBurning"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">4.46</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#duration"/>
+        <NamedIndividual IRI="#brindDaRuckus"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">4.1</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#duration"/>
+        <NamedIndividual IRI="#canItAllBeSoSimple"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">6.53</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#duration"/>
+        <NamedIndividual IRI="#carryThatWeight"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">1.37</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#duration"/>
+        <NamedIndividual IRI="#clanInDaFront"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">4.33</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#chanteur"/>
+        <NamedIndividual IRI="#cobain"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#boolean">false</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#first_name"/>
+        <NamedIndividual IRI="#cobain"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">kurt</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#last_name"/>
+        <NamedIndividual IRI="#cobain"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">cobain</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#place_of_birth"/>
+        <NamedIndividual IRI="#cobain"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">usa</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#year_of_birth"/>
+        <NamedIndividual IRI="#cobain"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">1967</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#year_of_death"/>
+        <NamedIndividual IRI="#cobain"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">1994</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#joinedSince"/>
+        <NamedIndividual IRI="#cobain_nirvana"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">1987</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#leftFrom"/>
+        <NamedIndividual IRI="#cobain_nirvana"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">1994</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#duration"/>
+        <NamedIndividual IRI="#comeAsYouAre"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">3.39</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#duration"/>
+        <NamedIndividual IRI="#comeTogether"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">4.21</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#duration"/>
+        <NamedIndividual IRI="#cream"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">4.12</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#duration"/>
+        <NamedIndividual IRI="#daMysteryOfChessboxin"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">4.48</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#duration"/>
+        <NamedIndividual IRI="#darkSideOfTheMoon"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">43.0</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#nbSells"/>
+        <NamedIndividual IRI="#darkSideOfTheMoon"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">100000000</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#released"/>
+        <NamedIndividual IRI="#darkSideOfTheMoon"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">1973</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#duration"/>
+        <NamedIndividual IRI="#dearRosemary"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">4.26</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#duration"/>
+        <NamedIndividual IRI="#drainYou"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">3.43</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#duration"/>
+        <NamedIndividual IRI="#eclipse"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">2.01</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#duration"/>
+        <NamedIndividual IRI="#fightForYourRight"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">3.28</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#activeSince"/>
+        <NamedIndividual IRI="#fooFighters"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">1994</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#origin"/>
+        <NamedIndividual IRI="#fooFighters"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">seattle</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#chanteur"/>
+        <NamedIndividual IRI="#ghostfaceKillah"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#boolean">false</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#last_name"/>
+        <NamedIndividual IRI="#ghostfaceKillah"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">ghostface killah</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#place_of_birth"/>
+        <NamedIndividual IRI="#ghostfaceKillah"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">usa</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#year_of_birth"/>
+        <NamedIndividual IRI="#ghostfaceKillah"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">1970</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#joinedSince"/>
+        <NamedIndividual IRI="#ghostface_wutang"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">1992</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#chanteur"/>
+        <NamedIndividual IRI="#gilmour"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#boolean">false</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#first_name"/>
+        <NamedIndividual IRI="#gilmour"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">david</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#last_name"/>
+        <NamedIndividual IRI="#gilmour"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">gilmour</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#place_of_birth"/>
+        <NamedIndividual IRI="#gilmour"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">uk</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#year_of_birth"/>
+        <NamedIndividual IRI="#gilmour"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">1946</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#duration"/>
+        <NamedIndividual IRI="#girls"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">2.14</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#joinedSince"/>
+        <NamedIndividual IRI="#glimour_pinkfloyd"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">1968</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#leftFrom"/>
+        <NamedIndividual IRI="#glimour_pinkfloyd"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">2014</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#duration"/>
+        <NamedIndividual IRI="#goldenSlumbers"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">1.32</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#chanteur"/>
+        <NamedIndividual IRI="#grohl"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#boolean">false</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#first_name"/>
+        <NamedIndividual IRI="#grohl"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">dave</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#last_name"/>
+        <NamedIndividual IRI="#grohl"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">grohl</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#place_of_birth"/>
+        <NamedIndividual IRI="#grohl"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">usa</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#year_of_birth"/>
+        <NamedIndividual IRI="#grohl"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">1969</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#joinedSince"/>
+        <NamedIndividual IRI="#grohl_foofighters"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">1990</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#joinedSince"/>
+        <NamedIndividual IRI="#grohl_foofighters"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">1994</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#leftFrom"/>
+        <NamedIndividual IRI="#grohl_foofighters"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">1994</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#joinedSince"/>
+        <NamedIndividual IRI="#grohl_nirvana"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">1990</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#leftFrom"/>
+        <NamedIndividual IRI="#grohl_nirvana"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">1994</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#chanteur"/>
+        <NamedIndividual IRI="#gza"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#boolean">false</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#last_name"/>
+        <NamedIndividual IRI="#gza"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">gza</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#place_of_birth"/>
+        <NamedIndividual IRI="#gza"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">usa</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#year_of_birth"/>
+        <NamedIndividual IRI="#gza"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">1966</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#joinedSince"/>
+        <NamedIndividual IRI="#gza_wutang"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">1992</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#joinedSince"/>
+        <NamedIndividual IRI="#harrison_beatles"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">1960</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#leftFrom"/>
+        <NamedIndividual IRI="#harrison_beatles"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">1970</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#chanteur"/>
+        <NamedIndividual IRI="#hawkins"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#boolean">false</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#first_name"/>
+        <NamedIndividual IRI="#hawkins"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">taylor</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#last_name"/>
+        <NamedIndividual IRI="#hawkins"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">hawkins</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#place_of_birth"/>
+        <NamedIndividual IRI="#hawkins"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">usa</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#year_of_birth"/>
+        <NamedIndividual IRI="#hawkins"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">1972</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#joinedSince"/>
+        <NamedIndividual IRI="#hawkins_foofighters"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">1997</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#duration"/>
+        <NamedIndividual IRI="#herMajesty"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">0.2</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#duration"/>
+        <NamedIndividual IRI="#hereComesTheSun"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">304.0</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#duration"/>
+        <NamedIndividual IRI="#inBloom"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">4.14</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#chanteur"/>
+        <NamedIndividual IRI="#inspaectahDech"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#boolean">false</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#last_name"/>
+        <NamedIndividual IRI="#inspaectahDech"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">inspaectah dech</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#place_of_birth"/>
+        <NamedIndividual IRI="#inspaectahDech"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">usa</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#year_of_birth"/>
+        <NamedIndividual IRI="#inspaectahDech"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">1970</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#joinedSince"/>
+        <NamedIndividual IRI="#inspectah_wutang"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">1992</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#joinedSince"/>
+        <NamedIndividual IRI="#lennon_beatles"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">1960</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#leftFrom"/>
+        <NamedIndividual IRI="#lennon_beatles"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">1969</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#duration"/>
+        <NamedIndividual IRI="#licensedToIll"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">44.33</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#nbSells"/>
+        <NamedIndividual IRI="#licensedToIll"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">34000000</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#released"/>
+        <NamedIndividual IRI="#licensedToIll"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">1986</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#duration"/>
+        <NamedIndividual IRI="#lithium"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">4.17</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#duration"/>
+        <NamedIndividual IRI="#loungeAct"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">2.36</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#first_name"/>
+        <NamedIndividual IRI="#mason"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">nick</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#last_name"/>
+        <NamedIndividual IRI="#mason"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">mason</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#place_of_birth"/>
+        <NamedIndividual IRI="#mason"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">uk</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#year_of_birth"/>
+        <NamedIndividual IRI="#mason"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">1944</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#joinedSince"/>
+        <NamedIndividual IRI="#mason_pinkfloyd"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">1965</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#leftFrom"/>
+        <NamedIndividual IRI="#mason_pinkfloyd"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">2014</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#chanteur"/>
+        <NamedIndividual IRI="#mastaKilla"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#boolean">false</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#last_name"/>
+        <NamedIndividual IRI="#mastaKilla"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">masta killa</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#place_of_birth"/>
+        <NamedIndividual IRI="#mastaKilla"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">usa</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#year_of_birth"/>
+        <NamedIndividual IRI="#mastaKilla"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">1969</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#joinedSince"/>
+        <NamedIndividual IRI="#masta_wutang"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">1992</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#chanteur"/>
+        <NamedIndividual IRI="#mcCartney"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#boolean">false</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#first_name"/>
+        <NamedIndividual IRI="#mcCartney"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Paul</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#last_name"/>
+        <NamedIndividual IRI="#mcCartney"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">mcCartney</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#place_of_birth"/>
+        <NamedIndividual IRI="#mcCartney"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">uk</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#year_of_birth"/>
+        <NamedIndividual IRI="#mcCartney"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">1942</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#joinedSince"/>
+        <NamedIndividual IRI="#mccartney_beatles"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">1960</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#leftFrom"/>
+        <NamedIndividual IRI="#mccartney_beatles"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">1970</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#duration"/>
+        <NamedIndividual IRI="#meanmr.Mustard"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">1.06</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#first_name"/>
+        <NamedIndividual IRI="#mendel"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">nate</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#last_name"/>
+        <NamedIndividual IRI="#mendel"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">mendel</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#place_of_birth"/>
+        <NamedIndividual IRI="#mendel"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">usa</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#year_of_birth"/>
+        <NamedIndividual IRI="#mendel"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">1968</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#joinedSince"/>
+        <NamedIndividual IRI="#mendel_foo_fighters"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">1995</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#chanteur"/>
+        <NamedIndividual IRI="#methodMan"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#boolean">false</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#duration"/>
+        <NamedIndividual IRI="#methodMan"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">5.5</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#last_name"/>
+        <NamedIndividual IRI="#methodMan"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">method man</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#place_of_birth"/>
+        <NamedIndividual IRI="#methodMan"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">usa</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#year_of_birth"/>
+        <NamedIndividual IRI="#methodMan"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">1971</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#joinedSince"/>
+        <NamedIndividual IRI="#method_wutang"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">1992</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#joinedSince"/>
+        <NamedIndividual IRI="#miked_bboys"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">1981</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#duration"/>
+        <NamedIndividual IRI="#money"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">6.23</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#duration"/>
+        <NamedIndividual IRI="#nevermind"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">42.38</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#nbSells"/>
+        <NamedIndividual IRI="#nevermind"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">10000000</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#released"/>
+        <NamedIndividual IRI="#nevermind"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">1991</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#activeSince"/>
+        <NamedIndividual IRI="#nirvana"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">1987</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#disbanded"/>
+        <NamedIndividual IRI="#nirvana"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">1994</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#origin"/>
+        <NamedIndividual IRI="#nirvana"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">washington</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#duration"/>
+        <NamedIndividual IRI="#noSleepTillBrooklyn"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">4.07</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#first_name"/>
+        <NamedIndividual IRI="#novolesic"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">krist</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#last_name"/>
+        <NamedIndividual IRI="#novolesic"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">novolesic</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#place_of_birth"/>
+        <NamedIndividual IRI="#novolesic"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">usa</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#year_of_birth"/>
+        <NamedIndividual IRI="#novolesic"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">1965</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#joinedSince"/>
+        <NamedIndividual IRI="#novolesic_nirvana"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">1987</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#leftFrom"/>
+        <NamedIndividual IRI="#novolesic_nirvana"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">1994</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#joinedSince"/>
+        <NamedIndividual IRI="#odb_wutang"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">1992</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#leftFrom"/>
+        <NamedIndividual IRI="#odb_wutang"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">2004</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#chanteur"/>
+        <NamedIndividual IRI="#olDirtyBastard"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#boolean">false</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#last_name"/>
+        <NamedIndividual IRI="#olDirtyBastard"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">ol dirty bastard</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#place_of_birth"/>
+        <NamedIndividual IRI="#olDirtyBastard"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">usa</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#year_of_birth"/>
+        <NamedIndividual IRI="#olDirtyBastard"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">1968</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#year_of_death"/>
+        <NamedIndividual IRI="#olDirtyBastard"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">2004</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#duration"/>
+        <NamedIndividual IRI="#onAPlain"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">3.16</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#duration"/>
+        <NamedIndividual IRI="#onTheRun"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">3.35</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#activeSince"/>
+        <NamedIndividual IRI="#pinkFloyd"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">1965</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#origin"/>
+        <NamedIndividual IRI="#pinkFloyd"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">london</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#duration"/>
+        <NamedIndividual IRI="#polly"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">2.57</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#duration"/>
+        <NamedIndividual IRI="#polythenPam"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">1.57</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#duration"/>
+        <NamedIndividual IRI="#posseInEffect"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">2.27</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#duration"/>
+        <NamedIndividual IRI="#protectYaNeck"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">4.52</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#chanteur"/>
+        <NamedIndividual IRI="#raekwon"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#boolean">false</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#last_name"/>
+        <NamedIndividual IRI="#raekwon"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">raekwon</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#place_of_birth"/>
+        <NamedIndividual IRI="#raekwon"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">usa</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#year_of_birth"/>
+        <NamedIndividual IRI="#raekwon"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">1970</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#joinedSince"/>
+        <NamedIndividual IRI="#raekwon_wutang"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">1992</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#duration"/>
+        <NamedIndividual IRI="#rhyminNStealin"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">4.08</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#duration"/>
+        <NamedIndividual IRI="#rope"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">4.19</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#chanteur"/>
+        <NamedIndividual IRI="#rza"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#boolean">false</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#last_name"/>
+        <NamedIndividual IRI="#rza"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">rza</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#place_of_birth"/>
+        <NamedIndividual IRI="#rza"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">usa</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#year_of_birth"/>
+        <NamedIndividual IRI="#rza"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">1969</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#joinedSince"/>
+        <NamedIndividual IRI="#rza_wutang"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">1992</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#duration"/>
+        <NamedIndividual IRI="#shameOnANigga"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">2.57</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#duration"/>
+        <NamedIndividual IRI="#sheCameInThroughTheBathroomWindow"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">1.57</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#joinedSince"/>
+        <NamedIndividual IRI="#shflet_foofighters"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">1999</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#first_name"/>
+        <NamedIndividual IRI="#shiflet"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">cris</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#last_name"/>
+        <NamedIndividual IRI="#shiflet"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">shiflet</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#place_of_birth"/>
+        <NamedIndividual IRI="#shiflet"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">usa</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#year_of_birth"/>
+        <NamedIndividual IRI="#shiflet"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">1971</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#duration"/>
+        <NamedIndividual IRI="#slowRide"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">2.56</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#first_name"/>
+        <NamedIndividual IRI="#smear"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">pat</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#last_name"/>
+        <NamedIndividual IRI="#smear"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">smear</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#place_of_birth"/>
+        <NamedIndividual IRI="#smear"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">usa</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#year_of_birth"/>
+        <NamedIndividual IRI="#smear"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">1959</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#joinedSince"/>
+        <NamedIndividual IRI="#smear_foofighters"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">1995</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#joinedSince"/>
+        <NamedIndividual IRI="#smear_nirvana"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">1993</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#leftFrom"/>
+        <NamedIndividual IRI="#smear_nirvana"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">1994</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#duration"/>
+        <NamedIndividual IRI="#smellsLikeTeenSpirit"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">5.01</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#duration"/>
+        <NamedIndividual IRI="#something"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">2.59</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#duration"/>
+        <NamedIndividual IRI="#somethingInTheWay"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">3.51</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#duration"/>
+        <NamedIndividual IRI="#somethingInTheWay"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">3.551</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#joinedSince"/>
+        <NamedIndividual IRI="#starr_beatles"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">1962</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#leftFrom"/>
+        <NamedIndividual IRI="#starr_beatles"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">1970</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#duration"/>
+        <NamedIndividual IRI="#stayAway"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">3.32</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#duration"/>
+        <NamedIndividual IRI="#sunKing"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">2.27</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#joinedSince"/>
+        <NamedIndividual IRI="#sutcliff_beatles"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">1960</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#leftFrom"/>
+        <NamedIndividual IRI="#sutcliff_beatles"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">1961</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#duration"/>
+        <NamedIndividual IRI="#territorialPissings"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">2.23</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#activeSince"/>
+        <NamedIndividual IRI="#theBeatles"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">1957</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#disbanded"/>
+        <NamedIndividual IRI="#theBeatles"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">1970</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#origin"/>
+        <NamedIndividual IRI="#theBeatles"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">liverpool</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#duration"/>
+        <NamedIndividual IRI="#theEnd"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">2.2</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#duration"/>
+        <NamedIndividual IRI="#theGreatGigInTheSky"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">4.44</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#duration"/>
+        <NamedIndividual IRI="#theNewStyle"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">4.36</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#duration"/>
+        <NamedIndividual IRI="#theseDays"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">4.58</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#duration"/>
+        <NamedIndividual IRI="#time"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">7.05</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#duration"/>
+        <NamedIndividual IRI="#usAndThem"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">7.5</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#duration"/>
+        <NamedIndividual IRI="#wastingLights"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">47.53</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#nbSells"/>
+        <NamedIndividual IRI="#wastingLights"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">500000</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#released"/>
+        <NamedIndividual IRI="#wastingLights"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">2011</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#chanteur"/>
+        <NamedIndividual IRI="#waters"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#boolean">false</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#first_name"/>
+        <NamedIndividual IRI="#waters"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">roger</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#last_name"/>
+        <NamedIndividual IRI="#waters"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">waters</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#place_of_birth"/>
+        <NamedIndividual IRI="#waters"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">uk</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#year_of_birth"/>
+        <NamedIndividual IRI="#waters"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">1943</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#joinedSince"/>
+        <NamedIndividual IRI="#waters_pinkfloyd"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">1965</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#leftFrom"/>
+        <NamedIndividual IRI="#waters_pinkfloyd"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">1983</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#duration"/>
+        <NamedIndividual IRI="#whiteLimo"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">3.22</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#chanteur"/>
+        <NamedIndividual IRI="#wright"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#boolean">false</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#first_name"/>
+        <NamedIndividual IRI="#wright"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">richard</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#last_name"/>
+        <NamedIndividual IRI="#wright"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">wright</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#place_of_birth"/>
+        <NamedIndividual IRI="#wright"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">uk</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#year_of_birth"/>
+        <NamedIndividual IRI="#wright"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">1943</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#year_of_death"/>
+        <NamedIndividual IRI="#wright"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">2008</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#joinedSince"/>
+        <NamedIndividual IRI="#wright_pinkfloyd"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">1965</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#leftFrom"/>
+        <NamedIndividual IRI="#wright_pinkfloyd"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">2005</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#duration"/>
+        <NamedIndividual IRI="#wuTang7thChamber"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">6.05</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#activeSince"/>
+        <NamedIndividual IRI="#wuTangClan"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">1992</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#origin"/>
+        <NamedIndividual IRI="#wuTangClan"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">new york</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#chanteur"/>
+        <NamedIndividual IRI="#yauch"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#boolean">false</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#first_name"/>
+        <NamedIndividual IRI="#yauch"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">adam</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#last_name"/>
+        <NamedIndividual IRI="#yauch"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">yauch</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#place_of_birth"/>
+        <NamedIndividual IRI="#yauch"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">usa</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#year_of_birth"/>
+        <NamedIndividual IRI="#yauch"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">1964</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#year_of_death"/>
+        <NamedIndividual IRI="#yauch"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">2012</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#joinedSince"/>
+        <NamedIndividual IRI="#yauch_bboys"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">1979</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#leftFrom"/>
+        <NamedIndividual IRI="#yauch_bboys"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">2012</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#duration"/>
+        <NamedIndividual IRI="#youNeverGiveMeYourMoney"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">4.02</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#duration"/>
+        <NamedIndividual IRI="#36Chambers"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">61.31</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#nbSells"/>
+        <NamedIndividual IRI="#36Chambers"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">40000000</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#released"/>
+        <NamedIndividual IRI="#36Chambers"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">1993</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#duration"/>
+        <NamedIndividual IRI="#maxwell’sSilverHammer"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">3.27</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#duration"/>
+        <NamedIndividual IRI="#octopus’sGarden"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">2.49</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#duration"/>
+        <NamedIndividual IRI="#oh!Darling"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">3.27</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#duration"/>
+        <NamedIndividual IRI="#shes’sCrafty"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">3.35</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#duration"/>
+        <NamedIndividual IRI="#speakToMe/Breathe"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">3.58</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#duration"/>
+        <NamedIndividual IRI="#wuTangClanain’tNuthingTof***Wit"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">3.36</Literal>
+    </DataPropertyAssertion>
+    <InverseObjectProperties>
+        <ObjectProperty IRI="#hasMember"/>
+        <ObjectProperty IRI="#isMemberOf"/>
+    </InverseObjectProperties>
+    <InverseObjectProperties>
+        <ObjectProperty IRI="#hasSong"/>
+        <ObjectProperty IRI="#isSongIn"/>
+    </InverseObjectProperties>
+    <InverseObjectProperties>
+        <ObjectProperty IRI="#isPlayedBy"/>
+        <ObjectProperty IRI="#playsInstrument"/>
+    </InverseObjectProperties>
+    <InverseObjectProperties>
+        <ObjectProperty IRI="#madeAlbum"/>
+        <ObjectProperty IRI="#wasMadeBy"/>
+    </InverseObjectProperties>
+    <TransitiveObjectProperty>
+        <ObjectProperty IRI="#playsGenre"/>
+    </TransitiveObjectProperty>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#albumGenre"/>
+        <Class IRI="#Album"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#playsGenre"/>
+        <Class IRI="#Groupe"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#playsGenre"/>
+        <Class IRI="#Genre"/>
+    </ObjectPropertyRange>
+    <SubObjectPropertyOf>
+        <ObjectPropertyChain>
+            <ObjectProperty IRI="#hasBecome"/>
+            <ObjectProperty IRI="#hasJoined"/>
+        </ObjectPropertyChain>
+        <ObjectProperty IRI="#isMemberOf"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectPropertyChain>
+            <ObjectProperty IRI="#madeAlbum"/>
+            <ObjectProperty IRI="#albumGenre"/>
+        </ObjectPropertyChain>
+        <ObjectProperty IRI="#playsGenre"/>
+    </SubObjectPropertyOf>
+    <DataPropertyDomain>
+        <DataProperty IRI="#activeSince"/>
+        <Class IRI="#Groupe"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#disbanded"/>
+        <Class IRI="#Groupe"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#first_name"/>
+        <Class IRI="#Person"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#instrument"/>
+        <Class IRI="#Person"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#joinedSince"/>
+        <Class IRI="#MemberofBand"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#last_name"/>
+        <Class IRI="#Person"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#leftFrom"/>
+        <Class IRI="#MemberofBand"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#nbSells"/>
+        <Class IRI="#Album"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#nbSongs"/>
+        <Class IRI="#Album"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#origin"/>
+        <Class IRI="#Groupe"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#place_of_birth"/>
+        <Class IRI="#Person"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#released"/>
+        <Class IRI="#Album"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#title"/>
+        <Class IRI="#chanson"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#year_of_birth"/>
+        <Class IRI="#Person"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#year_of_death"/>
+        <Class IRI="#Person"/>
+    </DataPropertyDomain>
+    <DataPropertyRange>
+        <DataProperty IRI="#activeSince"/>
+        <Datatype abbreviatedIRI="xsd:integer"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="#disbanded"/>
+        <Datatype abbreviatedIRI="xsd:integer"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="#duration"/>
+        <Datatype abbreviatedIRI="xsd:float"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="#first_name"/>
+        <Datatype abbreviatedIRI="xsd:string"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="#joinedSince"/>
+        <Datatype abbreviatedIRI="xsd:integer"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="#last_name"/>
+        <Datatype abbreviatedIRI="xsd:string"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="#leftFrom"/>
+        <Datatype abbreviatedIRI="xsd:integer"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="#nbSells"/>
+        <Datatype abbreviatedIRI="xsd:integer"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="#nbSongs"/>
+        <Datatype abbreviatedIRI="xsd:integer"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="#origin"/>
+        <Datatype abbreviatedIRI="xsd:string"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="#place_of_birth"/>
+        <Datatype abbreviatedIRI="xsd:string"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="#released"/>
+        <Datatype abbreviatedIRI="xsd:integer"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="#title"/>
+        <Datatype abbreviatedIRI="xsd:string"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="#year_of_birth"/>
+        <Datatype abbreviatedIRI="xsd:integer"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="#year_of_death"/>
+        <Datatype abbreviatedIRI="xsd:integer"/>
+    </DataPropertyRange>
+</Ontology>
+
+
+
+<!-- Generated by the OWL API (version 4.2.1.20160306-0033) https://github.com/owlcs/owlapi -->
+
