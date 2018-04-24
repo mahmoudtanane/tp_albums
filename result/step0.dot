@@ -1,0 +1,65 @@
+digraph G { 
+	rankdir=BT;
+subgraph Albums { 
+label="Albums";
+1 [shape=record,label="{Concept_Albums_2||on_the_beach\n}"];
+2 [shape=record,label="{Concept_Albums_6||harvest\n}"];
+3 [shape=record,label="{Concept_Albums_1||help\n}"];
+4 [shape=record,label="{Concept_Albums_0||rubber_soul\n}"];
+5 [shape=record,label="{Concept_Albums_4||hot_rats\n}"];
+6 [shape=record,label="{Concept_Albums_5||the_low_end_theory\n}"];
+7 [shape=record,label="{Concept_Albums_3||joes_garage\n}"];
+8 [shape=record,label="{Concept_Albums_11||comes_a_time\n}"];
+9 [shape=record,label="{Concept_Albums_7|nS4\n|let_it_be\n}"];
+10 [shape=record,label="{Concept_Albums_10|40IdI=50\n|}"];
+11 [shape=record,label="{Concept_Albums_9||midnight_marauders\nbeats_rhymes_and_life\n}"];
+12 [shape=record,label="{Concept_Albums_8|frank_zappa\n|}"];
+13 [shape=record,label="{Concept_Albums_12|the_beatles\n|}"];
+14 [shape=record,label="{Concept_Albums_15|1InI=4\n|}"];
+15 [shape=record,label="{Concept_Albums_13|dS50\n|}"];
+16 [shape=record,label="{Concept_Albums_14|rap\ntribe_called_quest\naS1990\n|}"];
+17 [shape=record,label="{Concept_Albums_16|neil_young\n|}"];
+18 [shape=record,label="{Concept_Albums_17|aI=1970\n|}"];
+19 [shape=record,label="{Concept_Albums_18|1970IaI=1990\n|}"];
+20 [shape=record,label="{Concept_Albums_20|folk\n|}"];
+21 [shape=record,label="{Concept_Albums_19|jazz\n|}"];
+22 [shape=record,label="{Concept_Albums_21|nI=1\n|}"];
+23 [shape=record,label="{Concept_Albums_22|dI=40\n|}"];
+24 [shape=record,label="{Concept_Albums_23|rock\n|}"];
+	2 -> 8
+	4 -> 9
+	6 -> 10
+	5 -> 10
+	5 -> 12
+	7 -> 12
+	9 -> 13
+	3 -> 13
+	8 -> 14
+	3 -> 14
+	7 -> 15
+	11 -> 15
+	6 -> 16
+	11 -> 16
+	8 -> 17
+	1 -> 17
+	13 -> 18
+	5 -> 18
+	17 -> 19
+	7 -> 19
+	17 -> 20
+	14 -> 20
+	4 -> 20
+	10 -> 21
+	15 -> 21
+	12 -> 21
+	16 -> 21
+	1 -> 22
+	21 -> 22
+	13 -> 23
+	20 -> 23
+	12 -> 24
+	1 -> 24
+	2 -> 24
+	18 -> 24
+}
+}

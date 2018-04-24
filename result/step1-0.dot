@@ -1,0 +1,67 @@
+digraph G { 
+	rankdir=BT;
+	margin=0;
+	node [margin="0.03,0.03",fontname="DejaVu Sans"];
+	ranksep=0.3;
+	nodesep=0.2;
+//graph[label="name:Albums,concept number:24,object number:11,attribute number:17"
+39 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_Albums_2</td></tr><tr><td><br/></td></tr><tr><td>on_the_beach<br/></td></tr></table>>];
+41 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_Albums_6</td></tr><tr><td><br/></td></tr><tr><td>harvest<br/></td></tr></table>>];
+42 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_Albums_1</td></tr><tr><td><br/></td></tr><tr><td>help<br/></td></tr></table>>];
+45 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_Albums_0</td></tr><tr><td><br/></td></tr><tr><td>rubber_soul<br/></td></tr></table>>];
+48 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_Albums_4</td></tr><tr><td><br/></td></tr><tr><td>hot_rats<br/></td></tr></table>>];
+49 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_Albums_5</td></tr><tr><td><br/></td></tr><tr><td>the_low_end_theory<br/></td></tr></table>>];
+51 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_Albums_3</td></tr><tr><td><br/></td></tr><tr><td>joes_garage<br/></td></tr></table>>];
+33 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_Albums_8</td></tr><tr><td>frank_zappa<br/></td></tr><tr><td><br/></td></tr></table>>];
+43 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_Albums_11</td></tr><tr><td><br/></td></tr><tr><td>comes_a_time<br/></td></tr></table>>];
+46 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_Albums_7</td></tr><tr><td>nS4<br/></td></tr><tr><td>let_it_be<br/></td></tr></table>>];
+50 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_Albums_10</td></tr><tr><td>40IdI=50<br/></td></tr><tr><td><br/></td></tr></table>>];
+52 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_Albums_9</td></tr><tr><td><br/></td></tr><tr><td>midnight_marauders<br/>beats_rhymes_and_life<br/></td></tr></table>>];
+32 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_Albums_14</td></tr><tr><td>rap<br/>tribe_called_quest<br/>aS1990<br/></td></tr><tr><td><br/></td></tr></table>>];
+36 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_Albums_16</td></tr><tr><td>neil_young<br/></td></tr><tr><td><br/></td></tr></table>>];
+38 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_Albums_12</td></tr><tr><td>the_beatles<br/></td></tr><tr><td><br/></td></tr></table>>];
+44 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_Albums_15</td></tr><tr><td>1InI=4<br/></td></tr><tr><td><br/></td></tr></table>>];
+53 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_Albums_13</td></tr><tr><td>dS50<br/></td></tr><tr><td><br/></td></tr></table>>];
+54 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_Albums_17</td></tr><tr><td>aI=1970<br/></td></tr><tr><td><br/></td></tr></table>>];
+55 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_Albums_18</td></tr><tr><td>1970IaI=1990<br/></td></tr><tr><td><br/></td></tr></table>>];
+31 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_Albums_20</td></tr><tr><td>folk<br/></td></tr><tr><td><br/></td></tr></table>>];
+34 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_Albums_19</td></tr><tr><td>jazz<br/></td></tr><tr><td><br/></td></tr></table>>];
+40 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_Albums_21</td></tr><tr><td>nI=1<br/></td></tr><tr><td><br/></td></tr></table>>];
+47 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_Albums_22</td></tr><tr><td>dI=40<br/></td></tr><tr><td><br/></td></tr></table>>];
+29 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_Albums_23</td></tr><tr><td>rock<br/></td></tr><tr><td><br/></td></tr></table>>];
+	48:p -> 33:p
+	51:p -> 33:p
+	41:p -> 43:p
+	45:p -> 46:p
+	49:p -> 50:p
+	48:p -> 50:p
+	49:p -> 32:p
+	52:p -> 32:p
+	43:p -> 36:p
+	39:p -> 36:p
+	46:p -> 38:p
+	42:p -> 38:p
+	43:p -> 44:p
+	42:p -> 44:p
+	51:p -> 53:p
+	52:p -> 53:p
+	38:p -> 54:p
+	48:p -> 54:p
+	36:p -> 55:p
+	51:p -> 55:p
+	36:p -> 31:p
+	44:p -> 31:p
+	45:p -> 31:p
+	50:p -> 34:p
+	53:p -> 34:p
+	33:p -> 34:p
+	32:p -> 34:p
+	39:p -> 40:p
+	34:p -> 40:p
+	38:p -> 47:p
+	31:p -> 47:p
+	33:p -> 29:p
+	39:p -> 29:p
+	41:p -> 29:p
+	54:p -> 29:p
+}

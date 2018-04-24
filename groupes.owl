@@ -22,10 +22,10 @@
         <DataProperty IRI="#title"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#brainDamage"/>
+        <NamedIndividual IRI="#shes’sCrafty"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#shes’sCrafty"/>
+        <NamedIndividual IRI="#brainDamage"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#slowRide"/>
@@ -43,6 +43,9 @@
         <Class IRI="#Album"/>
     </Declaration>
     <Declaration>
+        <NamedIndividual IRI="#folk"/>
+    </Declaration>
+    <Declaration>
         <NamedIndividual IRI="#cobain_nirvana"/>
     </Declaration>
     <Declaration>
@@ -56,6 +59,9 @@
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#loungeAct"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#neilYoung"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#theseDays"/>
@@ -85,10 +91,10 @@
         <NamedIndividual IRI="#hawkins"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#wuTang7thChamber"/>
+        <NamedIndividual IRI="#mcCartney"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#mcCartney"/>
+        <NamedIndividual IRI="#wuTang7thChamber"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#mendel"/>
@@ -100,6 +106,9 @@
         <NamedIndividual IRI="#nevermind"/>
     </Declaration>
     <Declaration>
+        <NamedIndividual IRI="#theLowEndTheory"/>
+    </Declaration>
+    <Declaration>
         <NamedIndividual IRI="#waters_pinkfloyd"/>
     </Declaration>
     <Declaration>
@@ -109,7 +118,13 @@
         <NamedIndividual IRI="#breed"/>
     </Declaration>
     <Declaration>
+        <NamedIndividual IRI="#beatsrhymesAndLife"/>
+    </Declaration>
+    <Declaration>
         <NamedIndividual IRI="#raekwon"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#tribeCalledQuest"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#whiteLimo"/>
@@ -133,6 +148,9 @@
         <ObjectProperty IRI="#hasBecome"/>
     </Declaration>
     <Declaration>
+        <NamedIndividual IRI="#frankZappa"/>
+    </Declaration>
+    <Declaration>
         <NamedIndividual IRI="#alternativeRock"/>
     </Declaration>
     <Declaration>
@@ -149,6 +167,12 @@
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#fightForYourRight"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#onTheBeach"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Help"/>
     </Declaration>
     <Declaration>
         <DataProperty IRI="#joinedSince"/>
@@ -205,6 +229,9 @@
         <NamedIndividual IRI="#somethingInTheWay"/>
     </Declaration>
     <Declaration>
+        <NamedIndividual IRI="#joesGarage"/>
+    </Declaration>
+    <Declaration>
         <NamedIndividual IRI="#smear_foofighters"/>
     </Declaration>
     <Declaration>
@@ -214,19 +241,19 @@
         <Class IRI="#Batterie"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#gza_wutang"/>
+        <ObjectProperty IRI="#playsGenre"/>
     </Declaration>
     <Declaration>
-        <ObjectProperty IRI="#playsGenre"/>
+        <NamedIndividual IRI="#gza_wutang"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#octopus’sGarden"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#noSleepTillBrooklyn"/>
+        <NamedIndividual IRI="#Lennon"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Lennon"/>
+        <NamedIndividual IRI="#noSleepTillBrooklyn"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#inspaectahDech"/>
@@ -235,10 +262,10 @@
         <NamedIndividual IRI="#cream"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#smear"/>
+        <ObjectProperty IRI="#isMemberOf"/>
     </Declaration>
     <Declaration>
-        <ObjectProperty IRI="#isMemberOf"/>
+        <NamedIndividual IRI="#smear"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#hawkins_foofighters"/>
@@ -295,19 +322,19 @@
         <DataProperty IRI="#disbanded"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#psychedelicRock"/>
+        <NamedIndividual IRI="#olDirtyBastard"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#olDirtyBastard"/>
+        <NamedIndividual IRI="#psychedelicRock"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#grohl_foofighters"/>
     </Declaration>
     <Declaration>
-        <DataProperty IRI="#nbSongs"/>
+        <NamedIndividual IRI="#lithium"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#lithium"/>
+        <DataProperty IRI="#nbSongs"/>
     </Declaration>
     <Declaration>
         <Class IRI="#Piano"/>
@@ -325,10 +352,10 @@
         <NamedIndividual IRI="#ghostfaceKillah"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#wuTangClanain’tNuthingTof***Wit"/>
+        <NamedIndividual IRI="#dearRosemary"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#dearRosemary"/>
+        <NamedIndividual IRI="#wuTangClanain’tNuthingTof***Wit"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#mason_pinkfloyd"/>
@@ -358,10 +385,10 @@
         <DataProperty IRI="#first_name"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#sheCameInThroughTheBathroomWindow"/>
+        <ObjectProperty IRI="#hasCertification"/>
     </Declaration>
     <Declaration>
-        <ObjectProperty IRI="#hasCertification"/>
+        <NamedIndividual IRI="#sheCameInThroughTheBathroomWindow"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#arlandria"/>
@@ -395,6 +422,9 @@
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#yauch"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#harvest"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#best_beatles"/>
@@ -448,6 +478,9 @@
         <NamedIndividual IRI="#fooFighters"/>
     </Declaration>
     <Declaration>
+        <NamedIndividual IRI="#rubberSoul"/>
+    </Declaration>
+    <Declaration>
         <NamedIndividual IRI="#carryThatWeight"/>
     </Declaration>
     <Declaration>
@@ -461,6 +494,9 @@
     </Declaration>
     <Declaration>
         <ObjectProperty IRI="#hasJoined"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#hotRats"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#onAPlain"/>
@@ -484,10 +520,10 @@
         <NamedIndividual IRI="#grohl"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#mastaKilla"/>
+        <NamedIndividual IRI="#wright_pinkfloyd"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#wright_pinkfloyd"/>
+        <NamedIndividual IRI="#mastaKilla"/>
     </Declaration>
     <Declaration>
         <DataProperty IRI="#nbSells"/>
@@ -506,6 +542,9 @@
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#raekwon_wutang"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#midnightMarauders"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#starr_beatles"/>
@@ -562,10 +601,13 @@
         <NamedIndividual IRI="#ghostface_wutang"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#herMajesty"/>
+        <NamedIndividual IRI="#comesATime"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#inspectah_wutang"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#herMajesty"/>
     </Declaration>
     <Declaration>
         <Class IRI="#MemberofBand"/>
@@ -577,16 +619,19 @@
         <NamedIndividual IRI="#adrock_bboys"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#theEnd"/>
+        <NamedIndividual IRI="#let_It_Be"/>
     </Declaration>
     <Declaration>
-        <ObjectProperty IRI="#contains"/>
+        <NamedIndividual IRI="#basse"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#theEnd"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#wright"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#basse"/>
+        <ObjectProperty IRI="#contains"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#novolesic_nirvana"/>
@@ -599,6 +644,12 @@
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#rza"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#jazz"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#rap"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#gza"/>
@@ -830,6 +881,10 @@
         <NamedIndividual IRI="#Harisson"/>
     </ClassAssertion>
     <ClassAssertion>
+        <Class IRI="#Album"/>
+        <NamedIndividual IRI="#Help"/>
+    </ClassAssertion>
+    <ClassAssertion>
         <Class IRI="#Genre"/>
         <NamedIndividual IRI="#Hip-hop"/>
     </ClassAssertion>
@@ -888,6 +943,10 @@
     <ClassAssertion>
         <Class IRI="#Groupe"/>
         <NamedIndividual IRI="#beastieBoys"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Album"/>
+        <NamedIndividual IRI="#beatsrhymesAndLife"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="#chanson"/>
@@ -954,6 +1013,10 @@
         <NamedIndividual IRI="#comeTogether"/>
     </ClassAssertion>
     <ClassAssertion>
+        <Class IRI="#Album"/>
+        <NamedIndividual IRI="#comesATime"/>
+    </ClassAssertion>
+    <ClassAssertion>
         <Class IRI="#chanson"/>
         <NamedIndividual IRI="#cream"/>
     </ClassAssertion>
@@ -982,8 +1045,16 @@
         <NamedIndividual IRI="#fightForYourRight"/>
     </ClassAssertion>
     <ClassAssertion>
+        <Class IRI="#Genre"/>
+        <NamedIndividual IRI="#folk"/>
+    </ClassAssertion>
+    <ClassAssertion>
         <Class IRI="#Groupe"/>
         <NamedIndividual IRI="#fooFighters"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Person"/>
+        <NamedIndividual IRI="#frankZappa"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="#Person"/>
@@ -1042,6 +1113,10 @@
         <NamedIndividual IRI="#harrison_beatles"/>
     </ClassAssertion>
     <ClassAssertion>
+        <Class IRI="#Album"/>
+        <NamedIndividual IRI="#harvest"/>
+    </ClassAssertion>
+    <ClassAssertion>
         <Class IRI="#Person"/>
         <NamedIndividual IRI="#hawkins"/>
     </ClassAssertion>
@@ -1058,6 +1133,10 @@
         <NamedIndividual IRI="#hereComesTheSun"/>
     </ClassAssertion>
     <ClassAssertion>
+        <Class IRI="#Album"/>
+        <NamedIndividual IRI="#hotRats"/>
+    </ClassAssertion>
+    <ClassAssertion>
         <Class IRI="#chanson"/>
         <NamedIndividual IRI="#inBloom"/>
     </ClassAssertion>
@@ -1070,8 +1149,20 @@
         <NamedIndividual IRI="#inspectah_wutang"/>
     </ClassAssertion>
     <ClassAssertion>
+        <Class IRI="#Genre"/>
+        <NamedIndividual IRI="#jazz"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Album"/>
+        <NamedIndividual IRI="#joesGarage"/>
+    </ClassAssertion>
+    <ClassAssertion>
         <Class IRI="#MemberofBand"/>
         <NamedIndividual IRI="#lennon_beatles"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Album"/>
+        <NamedIndividual IRI="#let_It_Be"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="#Album"/>
@@ -1134,12 +1225,20 @@
         <NamedIndividual IRI="#method_wutang"/>
     </ClassAssertion>
     <ClassAssertion>
+        <Class IRI="#Album"/>
+        <NamedIndividual IRI="#midnightMarauders"/>
+    </ClassAssertion>
+    <ClassAssertion>
         <Class IRI="#MemberofBand"/>
         <NamedIndividual IRI="#miked_bboys"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="#chanson"/>
         <NamedIndividual IRI="#money"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Person"/>
+        <NamedIndividual IRI="#neilYoung"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="#Album"/>
@@ -1172,6 +1271,10 @@
     <ClassAssertion>
         <Class IRI="#chanson"/>
         <NamedIndividual IRI="#onAPlain"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Album"/>
+        <NamedIndividual IRI="#onTheBeach"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="#chanson"/>
@@ -1218,16 +1321,20 @@
         <NamedIndividual IRI="#raekwon_wutang"/>
     </ClassAssertion>
     <ClassAssertion>
+        <Class IRI="#Genre"/>
+        <NamedIndividual IRI="#rap"/>
+    </ClassAssertion>
+    <ClassAssertion>
         <Class IRI="#chanson"/>
         <NamedIndividual IRI="#rhyminNStealin"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="#Genre"/>
-        <NamedIndividual IRI="#rock"/>
-    </ClassAssertion>
-    <ClassAssertion>
         <Class IRI="#chanson"/>
         <NamedIndividual IRI="#rope"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Album"/>
+        <NamedIndividual IRI="#rubberSoul"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="#Person"/>
@@ -1314,6 +1421,10 @@
         <NamedIndividual IRI="#theGreatGigInTheSky"/>
     </ClassAssertion>
     <ClassAssertion>
+        <Class IRI="#Album"/>
+        <NamedIndividual IRI="#theLowEndTheory"/>
+    </ClassAssertion>
+    <ClassAssertion>
         <Class IRI="#chanson"/>
         <NamedIndividual IRI="#theNewStyle"/>
     </ClassAssertion>
@@ -1324,6 +1435,10 @@
     <ClassAssertion>
         <Class IRI="#chanson"/>
         <NamedIndividual IRI="#time"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Groupe"/>
+        <NamedIndividual IRI="#tribeCalledQuest"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="#chanson"/>
@@ -1436,6 +1551,21 @@
         <NamedIndividual IRI="#basse"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#albumGenre"/>
+        <NamedIndividual IRI="#Help"/>
+        <NamedIndividual IRI="#folk"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#albumGenre"/>
+        <NamedIndividual IRI="#Help"/>
+        <NamedIndividual IRI="#rock"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#wasMadeBy"/>
+        <NamedIndividual IRI="#Help"/>
+        <NamedIndividual IRI="#theBeatles"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
         <ObjectProperty IRI="#hasBecome"/>
         <NamedIndividual IRI="#Lennon"/>
         <NamedIndividual IRI="#lennon_beatles"/>
@@ -1536,6 +1666,21 @@
         <NamedIndividual IRI="#pinkFloyd"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#albumGenre"/>
+        <NamedIndividual IRI="#beatsrhymesAndLife"/>
+        <NamedIndividual IRI="#jazz"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#albumGenre"/>
+        <NamedIndividual IRI="#beatsrhymesAndLife"/>
+        <NamedIndividual IRI="#rap"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#wasMadeBy"/>
+        <NamedIndividual IRI="#beatsrhymesAndLife"/>
+        <NamedIndividual IRI="#tribeCalledQuest"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
         <ObjectProperty IRI="#isSongIn"/>
         <NamedIndividual IRI="#because"/>
         <NamedIndividual IRI="#abbeyRoad"/>
@@ -1619,6 +1764,16 @@
         <ObjectProperty IRI="#isSongIn"/>
         <NamedIndividual IRI="#comeTogether"/>
         <NamedIndividual IRI="#abbeyRoad"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#albumGenre"/>
+        <NamedIndividual IRI="#comesATime"/>
+        <NamedIndividual IRI="#folk"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#wasMadeBy"/>
+        <NamedIndividual IRI="#comesATime"/>
+        <NamedIndividual IRI="#neilYoung"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="#isSongIn"/>
@@ -1751,6 +1906,21 @@
         <NamedIndividual IRI="#theBeatles"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#albumGenre"/>
+        <NamedIndividual IRI="#harvest"/>
+        <NamedIndividual IRI="#folk"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#albumGenre"/>
+        <NamedIndividual IRI="#harvest"/>
+        <NamedIndividual IRI="#rock"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#wasMadeBy"/>
+        <NamedIndividual IRI="#harvest"/>
+        <NamedIndividual IRI="#neilYoung"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
         <ObjectProperty IRI="#hasBecome"/>
         <NamedIndividual IRI="#hawkins"/>
         <NamedIndividual IRI="#hawkins_foofighters"/>
@@ -1776,6 +1946,21 @@
         <NamedIndividual IRI="#abbeyRoad"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#albumGenre"/>
+        <NamedIndividual IRI="#hotRats"/>
+        <NamedIndividual IRI="#jazz"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#albumGenre"/>
+        <NamedIndividual IRI="#hotRats"/>
+        <NamedIndividual IRI="#rock"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#wasMadeBy"/>
+        <NamedIndividual IRI="#hotRats"/>
+        <NamedIndividual IRI="#frankZappa"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
         <ObjectProperty IRI="#isSongIn"/>
         <NamedIndividual IRI="#inBloom"/>
         <NamedIndividual IRI="#nevermind"/>
@@ -1791,8 +1976,33 @@
         <NamedIndividual IRI="#wuTangClan"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#albumGenre"/>
+        <NamedIndividual IRI="#joesGarage"/>
+        <NamedIndividual IRI="#jazz"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#albumGenre"/>
+        <NamedIndividual IRI="#joesGarage"/>
+        <NamedIndividual IRI="#rock"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#wasMadeBy"/>
+        <NamedIndividual IRI="#joesGarage"/>
+        <NamedIndividual IRI="#frankZappa"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
         <ObjectProperty IRI="#hasJoined"/>
         <NamedIndividual IRI="#lennon_beatles"/>
+        <NamedIndividual IRI="#theBeatles"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#albumGenre"/>
+        <NamedIndividual IRI="#let_It_Be"/>
+        <NamedIndividual IRI="#rock"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#wasMadeBy"/>
+        <NamedIndividual IRI="#let_It_Be"/>
         <NamedIndividual IRI="#theBeatles"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
@@ -1906,6 +2116,21 @@
         <NamedIndividual IRI="#wuTangClan"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#albumGenre"/>
+        <NamedIndividual IRI="#midnightMarauders"/>
+        <NamedIndividual IRI="#jazz"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#albumGenre"/>
+        <NamedIndividual IRI="#midnightMarauders"/>
+        <NamedIndividual IRI="#rap"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#wasMadeBy"/>
+        <NamedIndividual IRI="#midnightMarauders"/>
+        <NamedIndividual IRI="#tribeCalledQuest"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
         <ObjectProperty IRI="#hasJoined"/>
         <NamedIndividual IRI="#miked_bboys"/>
         <NamedIndividual IRI="#beastieBoys"/>
@@ -1966,6 +2191,21 @@
         <NamedIndividual IRI="#nevermind"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#albumGenre"/>
+        <NamedIndividual IRI="#onTheBeach"/>
+        <NamedIndividual IRI="#folk"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#albumGenre"/>
+        <NamedIndividual IRI="#onTheBeach"/>
+        <NamedIndividual IRI="#rock"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#wasMadeBy"/>
+        <NamedIndividual IRI="#onTheBeach"/>
+        <NamedIndividual IRI="#neilYoung"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
         <ObjectProperty IRI="#isSongIn"/>
         <NamedIndividual IRI="#onTheRun"/>
         <NamedIndividual IRI="#darkSideOfTheMoon"/>
@@ -2009,6 +2249,21 @@
         <ObjectProperty IRI="#isSongIn"/>
         <NamedIndividual IRI="#rope"/>
         <NamedIndividual IRI="#wastingLights"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#albumGenre"/>
+        <NamedIndividual IRI="#rubberSoul"/>
+        <NamedIndividual IRI="#folk"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#albumGenre"/>
+        <NamedIndividual IRI="#rubberSoul"/>
+        <NamedIndividual IRI="#rock"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#wasMadeBy"/>
+        <NamedIndividual IRI="#rubberSoul"/>
+        <NamedIndividual IRI="#theBeatles"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="#hasBecome"/>
@@ -2124,6 +2379,21 @@
         <ObjectProperty IRI="#isSongIn"/>
         <NamedIndividual IRI="#theGreatGigInTheSky"/>
         <NamedIndividual IRI="#darkSideOfTheMoon"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#albumGenre"/>
+        <NamedIndividual IRI="#theLowEndTheory"/>
+        <NamedIndividual IRI="#jazz"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#albumGenre"/>
+        <NamedIndividual IRI="#theLowEndTheory"/>
+        <NamedIndividual IRI="#rap"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#wasMadeBy"/>
+        <NamedIndividual IRI="#theLowEndTheory"/>
+        <NamedIndividual IRI="#tribeCalledQuest"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="#isSongIn"/>
@@ -2341,6 +2611,21 @@
         <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">2001</Literal>
     </DataPropertyAssertion>
     <DataPropertyAssertion>
+        <DataProperty IRI="#duration"/>
+        <NamedIndividual IRI="#Help"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">34.0</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#nbSells"/>
+        <NamedIndividual IRI="#Help"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">3000000</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#released"/>
+        <NamedIndividual IRI="#Help"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">1965</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
         <DataProperty IRI="#chanteur"/>
         <NamedIndividual IRI="#Lennon"/>
         <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#boolean">false</Literal>
@@ -2527,6 +2812,21 @@
     </DataPropertyAssertion>
     <DataPropertyAssertion>
         <DataProperty IRI="#duration"/>
+        <NamedIndividual IRI="#beatsrhymesAndLife"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">51.0</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#nbSells"/>
+        <NamedIndividual IRI="#beatsrhymesAndLife"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">1000000</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#released"/>
+        <NamedIndividual IRI="#beatsrhymesAndLife"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">1996</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#duration"/>
         <NamedIndividual IRI="#because"/>
         <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">2.45</Literal>
     </DataPropertyAssertion>
@@ -2654,6 +2954,21 @@
         <DataProperty IRI="#duration"/>
         <NamedIndividual IRI="#comeTogether"/>
         <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">4.21</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#duration"/>
+        <NamedIndividual IRI="#comesATime"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">37.0</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#nbSells"/>
+        <NamedIndividual IRI="#comesATime"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">2000000</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#released"/>
+        <NamedIndividual IRI="#comesATime"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">1978</Literal>
     </DataPropertyAssertion>
     <DataPropertyAssertion>
         <DataProperty IRI="#duration"/>
@@ -2866,6 +3181,21 @@
         <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">1970</Literal>
     </DataPropertyAssertion>
     <DataPropertyAssertion>
+        <DataProperty IRI="#duration"/>
+        <NamedIndividual IRI="#harvest"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">37.0</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#nbSells"/>
+        <NamedIndividual IRI="#harvest"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">4000000</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#released"/>
+        <NamedIndividual IRI="#harvest"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">1972</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
         <DataProperty IRI="#chanteur"/>
         <NamedIndividual IRI="#hawkins"/>
         <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#boolean">false</Literal>
@@ -2907,6 +3237,21 @@
     </DataPropertyAssertion>
     <DataPropertyAssertion>
         <DataProperty IRI="#duration"/>
+        <NamedIndividual IRI="#hotRats"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">43.0</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#nbSells"/>
+        <NamedIndividual IRI="#hotRats"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">1000000</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#released"/>
+        <NamedIndividual IRI="#hotRats"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">1969</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#duration"/>
         <NamedIndividual IRI="#inBloom"/>
         <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">4.14</Literal>
     </DataPropertyAssertion>
@@ -2936,6 +3281,21 @@
         <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">1992</Literal>
     </DataPropertyAssertion>
     <DataPropertyAssertion>
+        <DataProperty IRI="#duration"/>
+        <NamedIndividual IRI="#joesGarage"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">115.0</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#nbSells"/>
+        <NamedIndividual IRI="#joesGarage"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">1000000</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#released"/>
+        <NamedIndividual IRI="#joesGarage"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">1979</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
         <DataProperty IRI="#joinedSince"/>
         <NamedIndividual IRI="#lennon_beatles"/>
         <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">1960</Literal>
@@ -2944,6 +3304,21 @@
         <DataProperty IRI="#leftFrom"/>
         <NamedIndividual IRI="#lennon_beatles"/>
         <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">1969</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#duration"/>
+        <NamedIndividual IRI="#let_It_Be"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">35.0</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#nbSells"/>
+        <NamedIndividual IRI="#let_It_Be"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">5000000</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#released"/>
+        <NamedIndividual IRI="#let_It_Be"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">1970</Literal>
     </DataPropertyAssertion>
     <DataPropertyAssertion>
         <DataProperty IRI="#duration"/>
@@ -3121,6 +3496,21 @@
         <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">1992</Literal>
     </DataPropertyAssertion>
     <DataPropertyAssertion>
+        <DataProperty IRI="#duration"/>
+        <NamedIndividual IRI="#midnightMarauders"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">51.0</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#nbSells"/>
+        <NamedIndividual IRI="#midnightMarauders"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">1000000</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#released"/>
+        <NamedIndividual IRI="#midnightMarauders"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">1993</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
         <DataProperty IRI="#joinedSince"/>
         <NamedIndividual IRI="#miked_bboys"/>
         <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">1981</Literal>
@@ -3237,6 +3627,21 @@
     </DataPropertyAssertion>
     <DataPropertyAssertion>
         <DataProperty IRI="#duration"/>
+        <NamedIndividual IRI="#onTheBeach"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">39.0</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#nbSells"/>
+        <NamedIndividual IRI="#onTheBeach"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">1000000</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#released"/>
+        <NamedIndividual IRI="#onTheBeach"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">1974</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#duration"/>
         <NamedIndividual IRI="#onTheRun"/>
         <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">3.35</Literal>
     </DataPropertyAssertion>
@@ -3304,6 +3709,21 @@
         <DataProperty IRI="#duration"/>
         <NamedIndividual IRI="#rope"/>
         <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">4.19</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#duration"/>
+        <NamedIndividual IRI="#rubberSoul"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">35.0</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#nbSells"/>
+        <NamedIndividual IRI="#rubberSoul"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">6000000</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#released"/>
+        <NamedIndividual IRI="#rubberSoul"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">1965</Literal>
     </DataPropertyAssertion>
     <DataPropertyAssertion>
         <DataProperty IRI="#chanteur"/>
@@ -3484,6 +3904,21 @@
         <DataProperty IRI="#duration"/>
         <NamedIndividual IRI="#theGreatGigInTheSky"/>
         <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">4.44</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#duration"/>
+        <NamedIndividual IRI="#theLowEndTheory"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">48.0</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#nbSells"/>
+        <NamedIndividual IRI="#theLowEndTheory"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">1000000</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#released"/>
+        <NamedIndividual IRI="#theLowEndTheory"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">1991</Literal>
     </DataPropertyAssertion>
     <DataPropertyAssertion>
         <DataProperty IRI="#duration"/>
